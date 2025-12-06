@@ -36,9 +36,9 @@ def fetch_news():
 def fetch_lottery():
     # 1. Định nghĩa RSS feed cho 3 miền
     rss_feeds = {
-        "mien_bac": "",
+        "mien_bac": "https://xskt.com.vn/rss-feed/mien-bac-xsmb.rss",
         "mien_nam": "https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss",  # Đã thay đổi
-        "mien_trung": ""
+        "mien_trung": "https://xskt.com.vn/rss-feed/mien-trung-xsmt.rss"
     }
     
     lottery_data = {}
