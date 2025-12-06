@@ -34,26 +34,34 @@ def fetch_news():
 # ================== 2. LẤY GIÁ VÀNG TỪ WEB ==================
 def fetch_gold_price():
     GOLD_URL = "https://giavang.net/bang-gia-vang-trong-nuoc"
-    
     try:
-        # Gửi yêu cầu HTTP để lấy HTML
-        response = requests.get(GOLD_URL, timeout=15)
-        response.raise_for_status()  # Kiểm tra lỗi HTTP
+        response = requests.get(GOLD_URL, timeout=15, headers={'User-Agent': 'Mozilla/5.0'})
+        response.raise_for_status()
         html_content = response.text
 
-        # Phân tích HTML với BeautifulSoup
         soup = BeautifulSoup(html_content, 'html.parser')
         
-        # TÌM KIẾM BẢNG GIÁ VÀNG TRONG HTML
-        # Lưu ý: Cấu trúc HTML có thể thay đổi, cần điều chỉnh selector nếu cần
+        # 🔍 BƯỚC DEBUG: In ra 1000 ký tự đầu tiên của HTML để xem cấu trúc
+        print("=== DEBUG: Đoạn HTML đầu tiên ===")
+        print(html_content[:1000])
+        print("=== Kết thúc debug ===")
+        
+        # TÌM TẤT CẢ CÁC BẢNG để xem có gì
+        all_tables = soup.find_all('table')
+        print(f"Tìm thấy {len(all_tables)} bảng trên trang.")
+        
         gold_data = []
-        # Ví dụ: tìm tất cả các hàng (<tr>) trong bảng
-        # Bạn cần kiểm tra cấu trúc HTML thực tế của trang để điều chỉnh cho phù hợp
-        table = soup.find('table', {'class': 'gold-price-table'})  # Cần xác định class chính xác
-        if table:
-            rows = table.find_all('tr')[1:6]  # Bỏ hàng tiêu đề, lấy 5 hàng đầu
+        # Thử với bảng đầu tiên tìm thấy
+        if all_tables:
+            first_table = all_tables[0]
+            # In thử HTML của bảng đầu tiên
+            print("=== Cấu trúc bảng đầu tiên ===")
+            print(first_table.prettify()[:1500])
+            
+            # Thử parse bảng đầu tiên - logic cũ
+            rows = first_table.find_all('tr')[1:6]  # Bỏ hàng tiêu đề
             for row in rows:
-                cols = row.find_all('td')
+                cols = row.find_all(['td', 'th'])  # Tìm cả td và th
                 if len(cols) >= 4:
                     gold_data.append({
                         "loai_vang": cols[0].text.strip(),
