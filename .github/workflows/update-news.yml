@@ -1,0 +1,33 @@
+name: Update News Daily
+
+on:
+  schedule:
+    # Chạy tự động vào 8 giờ sáng UTC mỗi ngày (3 giờ chiều giờ Việt Nam)
+    - cron: '0 8 * * *'
+  # Cho phép bạn nhấn nút chạy thủ công bất kỳ lúc nào
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install feedparser library
+        run: pip install feedparser
+
+      - name: Run script to fetch news
+        run: python fetch_news.py
+
+      - name: Commit and push new data if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 News updated automatically" && git push)
