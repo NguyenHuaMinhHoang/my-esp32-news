@@ -1,48 +1,33 @@
 {
-  "source": "xosothantai.mobi RSS",
-  "updated": "2025-12-06T07:20:34.911203Z",
+  "source": "Tổng hợp từ xskt.com.vn và xosothantai.mobi",
+  "updated": "2025-12-06T07:40:12.810682Z",
   "regions": {
     "mien_bac": {
-      "source": "https://xosothantai.mobi/rss/xo-so-mien-bac.rss",
-      "last_updated": "2025-12-06T07:20:33.663577Z",
-      "items": [
-        {
-          "title": "Kết Quả Xổ Số Miền Bắc",
-          "link": "https://xosothantai.mobi/xsmb-sxmb-xstd-xshn-kqxsmb-ket-qua-xo-so-mien-bac.html",
-          "published": "Sat, 06 Dec 2025 12:00 AM",
-          "summary": "Tường thuật trực tiếp kết quả xổ số miền bắc nhanh chóng, chính xác nhất trên xosothantai.mobi",
-          "guid": "https://xosothantai.mobi/xsmb-sxmb-xstd-xshn-kqxsmb-ket-qua-xo-so-mien-bac.html"
-        }
-      ],
-      "total_items": 1
+      "source": "",
+      "last_updated": "2025-12-06T07:40:10.595435Z",
+      "items": [],
+      "total_items": 0
     },
     "mien_nam": {
-      "source": "https://xosothantai.mobi/rss/xo-so-mien-nam.rss",
-      "last_updated": "2025-12-06T07:20:34.304046Z",
+      "source": "https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss",
+      "last_updated": "2025-12-06T07:40:12.810637Z",
       "items": [
         {
-          "title": "Kết Quả Xổ Số Miền Nam",
-          "link": "https://xosothantai.mobi/xsmn-sxmn-kqxsmn-ket-qua-xo-so-mien-nam.html",
-          "published": "Sat, 06 Dec 2025 12:00 AM",
-          "summary": "Tường thuật trực tiếp kết quả xổ số miền nam nhanh chóng, chính xác nhất trên xosothantai.mobi",
-          "guid": "https://xosothantai.mobi/xsmn-sxmn-kqxsmn-ket-qua-xo-so-mien-nam.html"
+          "title": "KẾT QUẢ XỔ SỐ MIỀN NAM NGÀY 05/12 (Thứ Sáu)",
+          "link": "https://xskt.com.vn/xsmn/ngay-5-12-2025",
+          "published": "05/12/2025",
+          "summary": "[Bình Dương]     \nĐB: 073147\n1: 29009\n2: 19816\n3: 89916 - 59590\n4: 89421 - 92381 - 24918 - 83207 - 42939 - 93200 - 44192\n5: 1300\n6: 2087 - 1123 - 4524\n7: 3118: 41\n[Trà Vinh]     \nĐB: 451385\n1: 84044\n2: 99460\n3: 38106 - 50174\n4: 53108 - 69701 - 26881 - 88642 - 72233 - 14447 - 64744\n5: 6764\n6: 7731 - 8129 - 9670\n7: 7268: 71\n[Vĩnh Long]     \nĐB: 250816\n1: 74269\n2: 42492\n3: 71467 - 18140\n4: 85835 - 75797 - 85389 - 87990 - 93540 - 39757 - 06775\n5: 3938\n6: 5945 - 5037 - 6279\n7: 6528: 18",
+          "full_description": "[Bình Dương]     \nĐB: 073147\n1: 29009\n2: 19816\n3: 89916 - 59590\n4: 89421 - 92381 - 24918 - 83207 - 42939 - 93200 - 44192\n5: 1300\n6: 2087 - 1123 - 4524\n7: 3118: 41\n[Trà Vinh]     \nĐB: 451385\n1: 84044\n2: 99460\n3: 38106 - 50174\n4: 53108 - 69701 - 26881 - 88642 - 72233 - 14447 - 64744\n5: 6764\n6: 7731 - 8129 - 9670\n7: 7268: 71\n[Vĩnh Long]     \nĐB: 250816\n1: 74269\n2: 42492\n3: 71467 - 18140\n4: 85835 - 75797 - 85389 - 87990 - 93540 - 39757 - 06775\n5: 3938\n6: 5945 - 5037 - 6279\n7: 6528: 18",
+          "guid": "https://xskt.com.vn/xsmn/ngay-5-12-2025"
         }
       ],
       "total_items": 1
     },
     "mien_trung": {
-      "source": "https://xosothantai.mobi/rss/xo-so-mien-trung.rss",
-      "last_updated": "2025-12-06T07:20:34.911197Z",
-      "items": [
-        {
-          "title": "Kết Quả Xổ Số Miền Trung",
-          "link": "https://xosothantai.mobi/xsmt-sxmt-kqxsmt-ket-qua-xo-so-mien-trung.html",
-          "published": "Sat, 06 Dec 2025 12:00 AM",
-          "summary": "Tường thuật trực tiếp kết quả xổ số miền trung nhanh chóng, chính xác nhất trên xosothantai.mobi",
-          "guid": "https://xosothantai.mobi/xsmt-sxmt-kqxsmt-ket-qua-xo-so-mien-trung.html"
-        }
-      ],
-      "total_items": 1
+      "source": "",
+      "last_updated": "2025-12-06T07:40:12.810679Z",
+      "items": [],
+      "total_items": 0
     }
   }
 }
