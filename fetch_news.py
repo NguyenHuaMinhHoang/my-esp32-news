@@ -8,16 +8,27 @@ feed = feedparser.parse(RSS_URL)
 
 # 2. Lấy 10 tin mới nhất
 news_items = []
-for entry in feed.entries[:10]:  # <-- Thay đổi từ 5 thành 10 ở đây
+for entry in feed.entries[:10]:
+    # Logic tìm ảnh được viết trực tiếp tại đây
+    thumbnail_url = ""
+    if 'media_content' in entry:
+        for media in entry.media_content:
+            if media.get('type', '').startswith('image/'):
+                thumbnail_url = media.get('url', '')
+                break
+    if not thumbnail_url and 'links' in entry:  # Nếu chưa tìm thấy
+        for link in entry.links:
+            if link.get('type', '').startswith('image/'):
+                thumbnail_url = link.get('href', '')
+                break
+
     news_items.append({
         "id": entry.get("id", entry.link),
         "title": entry.title,
         "link": entry.link,
         "pubDate": entry.get("published", ""),
-        # Ưu tiên lấy 'content' hoặc 'summary' cho mô tả chi tiết
         "description": entry.get("content", entry.get("summary", "")),
-        # Cố gắng lấy ảnh đại diện đầu tiên từ các liên kết media
-        "image": get_thumbnail(entry)
+        "image": thumbnail_url  # Sử dụng biến vừa tìm được
     })
 
 # 3. Đóng gói dữ liệu
@@ -33,21 +44,3 @@ with open("news.json", "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=2)
 
 print("✅ Đã tạo news.json với", len(news_items), "tin tức.")
-
-# Hàm hỗ trợ: Tìm ảnh thumbnail từ entry RSS
-def get_thumbnail(entry):
-    """Trích xuất URL ảnh đầu tiên từ entry RSS."""
-    # Thử tìm trong 'media_content' (nếu có)
-    if 'media_content' in entry:
-        for media in entry.media_content:
-            if media.get('type', '').startswith('image/'):
-                return media.get('url', '')
-    
-    # Thử tìm trong 'links' (nếu có)
-    if 'links' in entry:
-        for link in entry.links:
-            if link.get('type', '').startswith('image/'):
-                return link.get('href', '')
-    
-    # Nếu không tìm thấy, trả về chuỗi rỗng
-    return ""
