@@ -25,12 +25,12 @@ jobs:
       - name: Run script to fetch news
         run: python fetch_news.py
 
-      - name: Commit and push new data if changed
-        env:
-          MY_PAT: ${{ secrets.MY_PAT }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          # Kiểm tra xem có thay đổi không
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 News updated automatically" && git push https://x-access-token:${MY_PAT}@github.com/${GITHUB_REPOSITORY}.git HEAD:main)
+      - name: Commit and push new data
+        # Sử dụng action chuyên dụng để push thay đổi
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          # Sử dụng token đã tạo
+          github_token: ${{ secrets.MY_PAT }}
+          # Chỉ push nếu có thay đổi trong file news.json
+          force_with_lease: false
+          branch: ${{ github.ref }}
