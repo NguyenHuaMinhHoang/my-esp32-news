@@ -1,6 +1,7 @@
 import feedparser
 import json
 from datetime import datetime
+from time import mktime
 import requests
 from bs4 import BeautifulSoup
 
@@ -31,12 +32,13 @@ def fetch_news():
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     print("✅ Đã tạo news.json với", len(news_items), "tin tức.")
 
+# ================== 2. LẤY KẾT QUẢ XỔ SỐ ==================
 def fetch_lottery():
-    # 1. Định nghĩa 3 RSS feed
+    # 1. Định nghĩa RSS feed cho 3 miền
     rss_feeds = {
-        "mien_bac": "https://xosothantai.mobi/rss/xo-so-mien-bac.rss",
-        "mien_nam": "https://xosothantai.mobi/rss/xo-so-mien-nam.rss",
-        "mien_trung": "https://xosothantai.mobi/rss/xo-so-mien-trung.rss"
+        "mien_bac": "",
+        "mien_nam": "https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss",  # Đã thay đổi
+        "mien_trung": ""
     }
     
     lottery_data = {}
@@ -44,26 +46,68 @@ def fetch_lottery():
     for region, url in rss_feeds.items():
         try:
             feed = feedparser.parse(url)
-            items = []
             
-            # QUAN TRỌNG: Thay đổi ở đây - Chỉ lấy kết quả MỚI NHẤT (entry đầu tiên)
-            if len(feed.entries) > 0:
-                latest_entry = feed.entries[0]
-                items.append({
-                    "title": latest_entry.title,
-                    "link": latest_entry.link,
-                    "published": latest_entry.get("published", ""),
-                    "summary": latest_entry.get("summary", ""),
-                    "guid": latest_entry.get("id", latest_entry.link)
-                })
-                print(f"✅ Đã lấy kết quả gần nhất từ RSS {region}: {latest_entry.title[:50]}...")
+            if region == "mien_nam":
+                # Xử lý đặc biệt cho miền Nam (xskt.com.vn)
+                if len(feed.entries) > 0:
+                    # Tìm kết quả có ngày gần nhất
+                    all_results = []
+                    for entry in feed.entries:
+                        published_time = entry.get('published_parsed')
+                        if published_time:
+                            published_dt = datetime.fromtimestamp(mktime(published_time))
+                        else:
+                            published_dt = datetime.min
+                        
+                        all_results.append({
+                            "title": entry.title,
+                            "link": entry.link,
+                            "published": entry.get("published", ""),
+                            "published_dt": published_dt,
+                            "summary": entry.get("summary", ""),
+                            "description": entry.get("description", ""),
+                            "guid": entry.get("id", entry.link)
+                        })
+                    
+                    if all_results:
+                        # Lấy kết quả mới nhất
+                        latest_result = max(all_results, key=lambda x: x["published_dt"])
+                        
+                        items = [{
+                            "title": latest_result["title"],
+                            "link": latest_result["link"],
+                            "published": latest_result["published"],
+                            "summary": latest_result["summary"],
+                            "full_description": latest_result.get("description", ""),
+                            "guid": latest_result["guid"]
+                        }]
+                        print(f"✅ Đã lấy kết quả gần nhất từ RSS {region}: {latest_result['title'][:50]}...")
+                    else:
+                        items = []
+                        print(f"⚠️ RSS {region} không có dữ liệu.")
+                else:
+                    items = []
+                    print(f"⚠️ RSS {region} không có dữ liệu.")
             else:
-                print(f"⚠️ RSS {region} không có dữ liệu.")
+                # Xử lý cho miền Bắc và miền Trung (xosothantai.mobi)
+                items = []
+                if len(feed.entries) > 0:
+                    latest_entry = feed.entries[0]
+                    items.append({
+                        "title": latest_entry.title,
+                        "link": latest_entry.link,
+                        "published": latest_entry.get("published", ""),
+                        "summary": latest_entry.get("summary", ""),
+                        "guid": latest_entry.get("id", latest_entry.link)
+                    })
+                    print(f"✅ Đã lấy kết quả gần nhất từ RSS {region}: {latest_entry.title[:50]}...")
+                else:
+                    print(f"⚠️ RSS {region} không có dữ liệu.")
             
             lottery_data[region] = {
                 "source": url,
                 "last_updated": datetime.utcnow().isoformat() + "Z",
-                "items": items,  # Mảng giờ chỉ có 0 hoặc 1 phần tử
+                "items": items,
                 "total_items": len(items)
             }
             
@@ -79,7 +123,7 @@ def fetch_lottery():
     
     # 2. Ghi dữ liệu ra file lottery.json
     output_data = {
-        "source": "xosothantai.mobi RSS",
+        "source": "Tổng hợp từ xskt.com.vn và xosothantai.mobi",
         "updated": datetime.utcnow().isoformat() + "Z",
         "regions": lottery_data
     }
@@ -88,6 +132,7 @@ def fetch_lottery():
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
     print(f"✅ Đã tạo lottery.json với kết quả MỚI NHẤT của 3 miền")
+
 # ================== 3. CHẠY CHÍNH ==================
 if __name__ == "__main__":
     fetch_news()
