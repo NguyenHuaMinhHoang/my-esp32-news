@@ -6,9 +6,9 @@ from datetime import datetime
 RSS_URL = "https://vnexpress.net/rss/tin-moi-nhat.rss"
 feed = feedparser.parse(RSS_URL)
 
-# 2. Lấy 10 tin mới nhất
+# 2. Lấy 5 tin mới nhất
 news_items = []
-for entry in feed.entries[:10]:
+for entry in feed.entries[:5]:
     news_items.append({
         "id": entry.get("id", entry.link),
         "title": entry.title,
