@@ -31,65 +31,60 @@ def fetch_news():
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     print("✅ Đã tạo news.json với", len(news_items), "tin tức.")
 
-# ================== 2. LẤY GIÁ VÀNG TỪ WEB ==================
-def fetch_gold_price():
-    GOLD_URL = "https://giavang.net/bang-gia-vang-trong-nuoc"
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        response = requests.get(GOLD_URL, timeout=15, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        gold_data = []
-        
-        # 1. Tìm TẤT CẢ các bảng trong trang
-        all_tables = soup.find_all('table')
-        print(f"🔍 Tìm thấy {len(all_tables)} bảng trên trang.")
-
-        for table_index, table in enumerate(all_tables):
-            # 2. Tìm tất cả hàng <tr> trong bảng hiện tại
-            rows = table.find_all('tr')
+def fetch_lottery():
+    # 1. Định nghĩa 3 RSS feed
+    rss_feeds = {
+        "mien_bac": "https://xosothantai.mobi/rss/xo-so-mien-bac.rss",
+        "mien_nam": "https://xosothantai.mobi/rss/xo-so-mien-nam.rss",
+        "mien_trung": "https://xosothantai.mobi/rss/xo-so-mien-trung.rss"
+    }
+    
+    lottery_data = {}
+    
+    for region, url in rss_feeds.items():
+        try:
+            feed = feedparser.parse(url)
+            items = []
             
-            # 3. Lọc và xử lý từng hàng có dữ liệu (có thuộc tính data-code)
-            for row in rows:
-                # Bỏ qua các hàng trống, hàng tiêu đề, hàng quảng cáo
-                if row.get('data-code') and row.get('data-code') != 'data-title':
-                    # Tìm tất cả ô <td> hoặc <th> trong hàng
-                    cols = row.find_all(['td', 'th'])
-                    
-                    # Chỉ xử lý hàng có đủ dữ liệu (ít nhất 4 cột)
-                    if len(cols) >= 4:
-                        # Lấy văn bản từ các cột, loại bỏ khoảng trắng thừa
-                        col_texts = [col.get_text(strip=True) for col in cols]
-                        
-                        gold_data.append({
-                            "ma": row.get('data-code', ''),  # Mã sản phẩm, ví dụ: SJL1L10
-                            "loai_vang": col_texts[0],       # Cột 1: Loại vàng (vd: SJC 1L 10L)
-                            "ham_luong": col_texts[1],       # Cột 2: Hàm lượng
-                            "mua_vao": col_texts[2],         # Cột 3: Giá mua vào
-                            "ban_ra": col_texts[3]           # Cột 4: Giá bán ra
-                        })
-                        print(f"   ➕ Đã thêm: {col_texts[0]} - Mua: {col_texts[2]}, Bán: {col_texts[3]}")
-
-        # 4. Đóng gói và ghi file JSON
-        gold_output = {
-            "source": "GiaVang.net",
-            "updated": datetime.utcnow().isoformat() + "Z",
-            "data": gold_data,
-            "total_items": len(gold_data)
-        }
-
-        with open("giavang.json", "w", encoding="utf-8") as f:
-            json.dump(gold_output, f, ensure_ascii=False, indent=2)
+            # Lấy 5 kết quả gần nhất cho mỗi miền
+            for entry in feed.entries[:5]:
+                items.append({
+                    "title": entry.title,
+                    "link": entry.link,
+                    "published": entry.get("published", ""),
+                    "summary": entry.get("summary", ""),
+                    "guid": entry.get("id", entry.link)
+                })
             
-        print(f"✅ Đã tạo giavang.json với {len(gold_data)} mục giá vàng.")
-        
-    except requests.RequestException as e:
-        print(f"❌ Lỗi kết nối: {e}")
-    except Exception as e:
-        print(f"❌ Lỗi xử lý: {e}")
+            lottery_data[region] = {
+                "source": url,
+                "last_updated": datetime.utcnow().isoformat() + "Z",
+                "items": items,
+                "total_items": len(items)
+            }
+            print(f"✅ Đã lấy {len(items)} kết quả từ RSS {region}")
+            
+        except Exception as e:
+            print(f"❌ Lỗi khi lấy RSS {region}: {e}")
+            lottery_data[region] = {
+                "error": str(e),
+                "source": url,
+                "last_updated": datetime.utcnow().isoformat() + "Z"
+            }
+    
+    # 2. Ghi dữ liệu ra file lottery.json
+    output_data = {
+        "source": "xosothantai.mobi RSS",
+        "updated": datetime.utcnow().isoformat() + "Z",
+        "regions": lottery_data
+    }
+    
+    with open("lottery.json", "w", encoding="utf-8") as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ Đã tạo lottery.json với dữ liệu 3 miền")
 # ================== 3. CHẠY CHÍNH ==================
 if __name__ == "__main__":
     fetch_news()
-    fetch_gold_price()
+    fetch_lottery()
     print("✨ Hoàn tất tất cả công việc!")
