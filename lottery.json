@@ -1,16 +1,24 @@
 {
   "source": "Tổng hợp từ xskt.com.vn và xosothantai.mobi",
-  "updated": "2025-12-06T07:40:12.810682Z",
+  "updated": "2025-12-06T07:57:50.012325Z",
   "regions": {
     "mien_bac": {
-      "source": "",
-      "last_updated": "2025-12-06T07:40:10.595435Z",
-      "items": [],
-      "total_items": 0
+      "source": "https://xskt.com.vn/rss-feed/mien-bac-xsmb.rss",
+      "last_updated": "2025-12-06T07:57:48.488727Z",
+      "items": [
+        {
+          "title": "KẾT QUẢ XỔ SỐ MIỀN BẮC NGÀY 05/12 (Thứ Sáu)",
+          "link": "https://xskt.com.vn/xsmb/ngay-5-12-2025",
+          "published": "Sat, 06 Dec 2025 14:54:54 GMT",
+          "summary": "ĐB: 04235\n1: 87225\n2: 31016 - 47625\n3: 43662 - 88626 - 56230 - 42098 - 87992 - 83713\n4: 7961 - 3769 - 0080 - 3501\n5: 4664 - 5505 - 4710 - 1246 - 8246 - 7761\n6: 135 - 872 - 032\n7: 31 - 20 - 49 - 17",
+          "guid": "https://xskt.com.vn/xsmb/ngay-5-12-2025"
+        }
+      ],
+      "total_items": 1
     },
     "mien_nam": {
       "source": "https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss",
-      "last_updated": "2025-12-06T07:40:12.810637Z",
+      "last_updated": "2025-12-06T07:57:49.252966Z",
       "items": [
         {
           "title": "KẾT QUẢ XỔ SỐ MIỀN NAM NGÀY 05/12 (Thứ Sáu)",
@@ -24,10 +32,18 @@
       "total_items": 1
     },
     "mien_trung": {
-      "source": "",
-      "last_updated": "2025-12-06T07:40:12.810679Z",
-      "items": [],
-      "total_items": 0
+      "source": "https://xskt.com.vn/rss-feed/mien-trung-xsmt.rss",
+      "last_updated": "2025-12-06T07:57:50.012317Z",
+      "items": [
+        {
+          "title": "KẾT QUẢ XỔ SỐ MIỀN TRUNG NGÀY 05/12 (Thứ Sáu)",
+          "link": "https://xskt.com.vn/xsmt/ngay-5-12-2025",
+          "published": "05/12/2025",
+          "summary": "[Gia Lai]     \nĐB: 097599\n1: 60236\n2: 10887\n3: 55657 - 85347\n4: 39508 - 61093 - 98130 - 56589 - 09360 - 23386 - 35801\n5: 5110\n6: 1001 - 7539 - 7950\n7: 8228: 95\n[Ninh Thuận]     \nĐB: 721878\n1: 37517\n2: 87080\n3: 84054 - 09088\n4: 15471 - 16695 - 64126 - 84004 - 79632 - 21595 - 37897\n5: 9524\n6: 2380 - 0718 - 1828\n7: 2418: 86",
+          "guid": "https://xskt.com.vn/xsmt/ngay-5-12-2025"
+        }
+      ],
+      "total_items": 1
     }
   }
 }
