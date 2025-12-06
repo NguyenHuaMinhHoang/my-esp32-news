@@ -23,10 +23,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install feedparser library
-        run: pip install feedparser
+      - name: Install Python dependencies
+        run: pip install feedparser beautifulsoup4 requests
 
-      - name: Run script to fetch news
+      - name: Run script to fetch news and gold price
         run: python fetch_news.py
 
       # BƯỚC ĐƠN GIẢN: Dùng lệnh git cơ bản để commit & push
@@ -34,6 +34,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          # Chỉ commit nếu file thực sự thay đổi
-          git diff --staged --quiet || (git commit -m "🤖 News updated automatically" && git push)
+          git add news.json giavang.json
+          git diff --staged --quiet || (git commit -m "🤖 News and gold price updated automatically" && git push)
