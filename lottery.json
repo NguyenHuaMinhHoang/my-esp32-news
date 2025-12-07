@@ -1,15 +1,15 @@
 {
   "source": "Tổng hợp từ xskt.com.vn và xosothantai.mobi",
-  "updated": "2025-12-06T12:38:06.386062Z",
+  "updated": "2025-12-07T04:32:27.470019Z",
   "regions": {
     "mien_bac": {
       "source": "https://xskt.com.vn/rss-feed/mien-bac-xsmb.rss",
-      "last_updated": "2025-12-06T12:38:05.086269Z",
+      "last_updated": "2025-12-07T04:32:25.930557Z",
       "items": [
         {
           "title": "KẾT QUẢ XỔ SỐ MIỀN BẮC NGÀY 06/12 (Thứ Bảy)",
           "link": "https://xskt.com.vn/xsmb/ngay-6-12-2025",
-          "published": "Sat, 06 Dec 2025 19:36:23 GMT",
+          "published": "Sun, 07 Dec 2025 11:32:25 GMT",
           "summary": "ĐB: 54526\n1: 58804\n2: 71736 - 93839\n3: 24387 - 02396 - 21428 - 75892 - 07677 - 81473\n4: 1715 - 3121 - 0995 - 3896\n5: 0047 - 7223 - 7775 - 1049 - 5130 - 4078\n6: 311 - 191 - 630\n7: 03 - 82 - 12 - 14",
           "guid": "https://xskt.com.vn/xsmb/ngay-6-12-2025"
         }
@@ -18,7 +18,7 @@
     },
     "mien_nam": {
       "source": "https://xskt.com.vn/rss-feed/mien-nam-xsmn.rss",
-      "last_updated": "2025-12-06T12:38:05.732973Z",
+      "last_updated": "2025-12-07T04:32:26.689172Z",
       "items": [
         {
           "title": "KẾT QUẢ XỔ SỐ MIỀN NAM NGÀY 06/12 (Thứ Bảy)",
@@ -33,7 +33,7 @@
     },
     "mien_trung": {
       "source": "https://xskt.com.vn/rss-feed/mien-trung-xsmt.rss",
-      "last_updated": "2025-12-06T12:38:06.386053Z",
+      "last_updated": "2025-12-07T04:32:27.470011Z",
       "items": [
         {
           "title": "KẾT QUẢ XỔ SỐ MIỀN TRUNG NGÀY 06/12 (Thứ Bảy)",
