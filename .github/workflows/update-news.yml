@@ -1,18 +1,18 @@
-name: Update News Daily
+name: Update Data Daily
 
 on:
   schedule:
-     - cron: '0 23,2,4,7,10,12,14,16 * * *'
+    # Chạy vào các khung giờ: 6h, 9h, 11h, 14h, 17h, 19h, 21h, 23h (giờ VN, UTC+7)
+    # VÀ thêm 0h UTC (7h sáng VN) để cập nhật giá vàng
+    - cron: '0 0,2,4,7,10,12,14,16,23 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    # Bật quyền ghi (write permissions) cho token của job
     permissions:
       contents: write
     steps:
-      # BƯỚC QUAN TRỌNG: Checkout với token của bạn, cho phép push
       - name: Checkout code
         uses: actions/checkout@v3
         with:
@@ -23,17 +23,68 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Python dependencies
-        run: pip install feedparser beautifulsoup4 requests
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
 
-      - name: Run script to fetch news and gold price
+      - name: Install Python dependencies
+        run: |
+          pip install feedparser beautifulsoup4 requests selenium webdriver-manager
+
+      - name: Run update script
         run: python fetch_news.py
 
-      # BƯỚC ĐƠN GIẢN: Dùng lệnh git cơ bản để commit & push
+      - name: Check current time
+        run: |
+          echo "Current UTC time: $(date -u)"
+          echo "Current Vietnam time: $(date -d '+7 hours')"
+          echo "Gold price updates at 00:00 UTC (07:00 VN Time)"
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json lottery.json
-          git add news.json news.json
-          git diff --staged --quiet || (git commit -m "🤖 News and gold price updated automatically" && git push)
+          
+          # Kiểm tra file JSON
+          files_to_add=""
+          if [ -f "news.json" ]; then
+            files_to_add="$files_to_add news.json"
+            echo "📰 news.json tồn tại"
+          fi
+          if [ -f "lottery.json" ]; then
+            files_to_add="$files_to_add lottery.json"
+            echo "🎱 lottery.json tồn tại"
+          fi
+          if [ -f "giavang.json" ]; then
+            files_to_add="$files_to_add giavang.json"
+            echo "🪙 giavang.json tồn tại"
+          fi
+          
+          if [ ! -z "$files_to_add" ]; then
+            git add $files_to_add
+            git status
+            
+            # Kiểm tra xem có thay đổi không
+            if ! git diff --staged --quiet; then
+              current_time_vn=$(date -d '+7 hours' '+%Y-%m-%d %H:%M')
+              commit_msg="🤖 Auto-update at $current_time_vn (VN Time)"
+              
+              # Thêm thông tin chi tiết vào commit message
+              if [ -f "giavang.json" ]; then
+                gold_status=$(python -c "import json; data=json.load(open('giavang.json')); print(data.get('status', 'unknown'))")
+                if [ "$gold_status" = "success" ]; then
+                  commit_msg="$commit_msg - Gold price updated"
+                fi
+              fi
+              
+              git commit -m "$commit_msg"
+              git push
+              echo "✅ Đã commit và push thành công!"
+            else
+              echo "⏭️ Không có thay đổi nào để commit"
+            fi
+          else
+            echo "❌ Không tìm thấy file JSON nào"
+            exit 1
+          fi
