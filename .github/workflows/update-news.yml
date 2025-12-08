@@ -4,7 +4,7 @@ on:
   schedule:
     # Chạy vào các khung giờ: 6h, 9h, 11h, 14h, 17h, 19h, 21h, 23h (giờ VN, UTC+7)
     # VÀ 0h UTC (7h sáng VN) để cập nhật giá vàng
-    - cron: '0 0,2,4,7,10,12,14,16,23 * * *'
+    - cron: '0 0,2,4 4,7,10,12,14,16,23 * * *'
   workflow_dispatch:
 
 jobs:
