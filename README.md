@@ -1,3 +1,4 @@
 📰 TOOL TIN TỨC VNEXPRESS
     XỔ SỐ TOOL
+    GIÁ VÀNG TRONG NƯỚC TOOL
 MCP_SERVER_CHATBOT XiaoZhi AI
