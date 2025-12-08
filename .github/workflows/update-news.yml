@@ -3,7 +3,7 @@ name: Update Data Daily
 on:
   schedule:
     # Chạy vào các khung giờ: 6h, 9h, 11h, 14h, 17h, 19h, 21h, 23h (giờ VN, UTC+7)
-    # VÀ thêm 0h UTC (7h sáng VN) để cập nhật giá vàng
+    # VÀ 0h UTC (7h sáng VN) để cập nhật giá vàng
     - cron: '0 0,2,4,7,10,12,14,16,23 * * *'
   workflow_dispatch:
 
@@ -23,68 +23,86 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install system dependencies
+      - name: Install system dependencies for Chrome
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
+          sudo apt-get install -y wget unzip
+          # Tải và cài đặt Chrome
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          # Kiểm tra phiên bản Chrome
+          google-chrome --version
 
       - name: Install Python dependencies
         run: |
           pip install feedparser beautifulsoup4 requests selenium webdriver-manager
 
-      - name: Run update script
+      - name: Run main update script
         run: python fetch_news.py
 
-      - name: Check current time
+      - name: Display current time and schedule info
         run: |
-          echo "Current UTC time: $(date -u)"
-          echo "Current Vietnam time: $(date -d '+7 hours')"
+          echo "Current UTC time: $(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "Current Vietnam time: $(date -d '+7 hours' '+%Y-%m-%d %H:%M:%S')"
           echo "Gold price updates at 00:00 UTC (07:00 VN Time)"
+          echo "This run was triggered by: ${{ github.event_name }}"
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Kiểm tra file JSON
-          files_to_add=""
-          if [ -f "news.json" ]; then
-            files_to_add="$files_to_add news.json"
-            echo "📰 news.json tồn tại"
-          fi
-          if [ -f "lottery.json" ]; then
-            files_to_add="$files_to_add lottery.json"
-            echo "🎱 lottery.json tồn tại"
-          fi
-          if [ -f "giavang.json" ]; then
-            files_to_add="$files_to_add giavang.json"
-            echo "🪙 giavang.json tồn tại"
-          fi
+          # Kiểm tra và thêm các file JSON
+          changed=false
           
-          if [ ! -z "$files_to_add" ]; then
-            git add $files_to_add
-            git status
-            
-            # Kiểm tra xem có thay đổi không
-            if ! git diff --staged --quiet; then
-              current_time_vn=$(date -d '+7 hours' '+%Y-%m-%d %H:%M')
-              commit_msg="🤖 Auto-update at $current_time_vn (VN Time)"
-              
-              # Thêm thông tin chi tiết vào commit message
-              if [ -f "giavang.json" ]; then
-                gold_status=$(python -c "import json; data=json.load(open('giavang.json')); print(data.get('status', 'unknown'))")
-                if [ "$gold_status" = "success" ]; then
-                  commit_msg="$commit_msg - Gold price updated"
-                fi
-              fi
-              
-              git commit -m "$commit_msg"
-              git push
-              echo "✅ Đã commit và push thành công!"
+          for file in news.json lottery.json giavang.json; do
+            if [ -f "$file" ]; then
+              git add "$file"
+              echo "✓ Added $file"
+              changed=true
             else
-              echo "⏭️ Không có thay đổi nào để commit"
+              echo "⚠️ $file not found"
             fi
+          done
+          
+          if [ "$changed" = true ]; then
+            current_time_vn=$(date -d '+7 hours' '+%Y-%m-%d %H:%M:%S')
+            
+            # Kiểm tra trạng thái giá vàng cho commit message
+            gold_message=""
+            if [ -f "giavang.json" ]; then
+              gold_status=$(python -c "
+import json
+try:
+    with open('giavang.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('status', 'unknown'))
+except:
+    print('error')
+              ")
+              
+              if [ "$gold_status" = "success" ]; then
+                item_count=$(python -c "
+import json
+try:
+    with open('giavang.json', 'r') as f:
+        data = json.load(f)
+    print(data.get('total_items', 0))
+except:
+    print('0')
+                ")
+                gold_message=" - Gold price updated ($item_count items)"
+              elif [ "$gold_status" = "skipped" ]; then
+                gold_message=" - Gold price skipped (not 7AM VN time)"
+              fi
+            fi
+            
+            commit_msg="🤖 Auto-update at $current_time_vn (VN Time)$gold_message"
+            git commit -m "$commit_msg" || echo "No changes to commit"
+            git push
+            echo "✅ Changes committed and pushed"
           else
-            echo "❌ Không tìm thấy file JSON nào"
-            exit 1
+            echo "⏭️ No files to commit"
           fi
