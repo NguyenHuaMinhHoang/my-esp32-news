@@ -1,21 +1,21 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2025-12-10 04:25:10",
-  "last_updated_vn": "04:25 10/12/2025",
+  "last_updated": "2025-12-11 00:51:30",
+  "last_updated_vn": "00:51 11/12/2025",
   "total_items": 14,
   "sections": [
-    "Các thương hiệu vàng",
-    "Vàng thế giới"
+    "Vàng thế giới",
+    "Các thương hiệu vàng"
   ],
   "data": [
     {
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "99,225",
+      "buy": "98,265",
       "sell": "",
-      "buy_raw": "99.225",
+      "buy_raw": "98.265",
       "sell_raw": ""
     },
     {
@@ -85,9 +85,9 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "150,700,000",
+      "buy": "150,500,000",
       "sell": "",
-      "buy_raw": "150.700.000",
+      "buy_raw": "150.500.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,298,000",
+      "buy": "2,299,000",
       "sell": "",
-      "buy_raw": "2.298.000",
+      "buy_raw": "2.299.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "61,279,847",
+      "buy": "61,306,513",
       "sell": "",
-      "buy_raw": "61.279.847",
+      "buy_raw": "61.306.513",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2025-12-11T06:09:53.134113+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:09 11/12/2025"
+  ]
 }
