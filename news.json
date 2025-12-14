@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2025-12-14T12:18:43.305161Z",
-  "updated_vn": "2025-12-14T19:18:43.305165+07:00",
-  "schedule_time": "19:18",
+  "updated": "2025-12-14T14:10:19.383825Z",
+  "updated_vn": "2025-12-14T21:10:19.383829+07:00",
+  "schedule_time": "21:10",
   "articles": [
+    {
+      "id": "https://vnexpress.net/tuan-hung-viet-ca-khuc-tuong-nho-me-4993740.html",
+      "title": "Tuấn Hưng viết ca khúc tưởng nhớ mẹ",
+      "link": "https://vnexpress.net/tuan-hung-viet-ca-khuc-tuong-nho-me-4993740.html",
+      "pubDate": "Sun, 14 Dec 2025 20:19:15 +0700",
+      "description": "<a href=\"https://vnexpress.net/tuan-hung-viet-ca-khuc-tuong-nho-me-4993740.html\"><img src=\"https://vcdn1-giaitri.vnecdn.net/2025/12/14/tua-n-hu-ng-jpg-1765715919-176-3541-4057-1765716983.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=TWMR5IS0VMniK4ivjjjLww\" /></a>Ca sĩ Tuấn Hưng sáng tác \"Chạm vào nỗi nhớ mẹ\", nói về những hẫng hụt, mất mát khi mẹ anh qua đời.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/cuon-so-tay-giup-xa-thu-trinh-thu-vinh-pha-hai-ky-luc-sea-games-4993736.html",
+      "title": "Cuốn sổ tay giúp xạ thủ Trịnh Thu Vinh phá hai kỷ lục SEA Games",
+      "link": "https://vnexpress.net/cuon-so-tay-giup-xa-thu-trinh-thu-vinh-pha-hai-ky-luc-sea-games-4993736.html",
+      "pubDate": "Sun, 14 Dec 2025 20:09:42 +0700",
+      "description": "<a href=\"https://vnexpress.net/cuon-so-tay-giup-xa-thu-trinh-thu-vinh-pha-hai-ky-luc-sea-games-4993736.html\"><img src=\"https://vcdn1-thethao.vnecdn.net/2025/12/14/z7325418658332-032357a2b1460ed-7506-8966-1765713397.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=LDgrY6JuXi3W2vsc3SrgBg\" /></a>Mỗi khi bị căng cứng, xạ thủ Trịnh Thu Vinh xem lại các phương pháp ghi trong một cuốn sổ đặc biệt để lấy lại sự tập trung, góp phần giành hai HC vàng 10m súng ngắn hơi nữ SEA Games 33.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/check-in-duong-chay-vm-hai-phong-2025-4993732.html",
+      "title": "Những góc phố biểu tượng Hải Phòng trên cung đường VnExpress Marathon",
+      "link": "https://vnexpress.net/check-in-duong-chay-vm-hai-phong-2025-4993732.html",
+      "pubDate": "Sun, 14 Dec 2025 20:00:00 +0700",
+      "description": "<a href=\"https://vnexpress.net/check-in-duong-chay-vm-hai-phong-2025-4993732.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/14/a-nh-4-1765712324-1765713381.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=cGefoYB6yrsg_5j-SYmJ0g\" /></a>Từ tượng đài nữ tướng Lê Chân đến bức tường rồng vàng trên phố đi bộ Tam Bạc, cung đường VnExpress Marathon đưa runner khám phá Hải Phòng, nơi giao thoa giữa chiều sâu lịch sử và nhịp sống trẻ trung.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/noi-nao-o-trung-quoc-duoc-goi-la-thu-phu-thit-cho-4993743.html",
+      "title": "Nơi nào ở Trung Quốc được gọi là 'thủ phủ' thịt chó''?",
+      "link": "https://vnexpress.net/noi-nao-o-trung-quoc-duoc-goi-la-thu-phu-thit-cho-4993743.html",
+      "pubDate": "Sun, 14 Dec 2025 19:59:01 +0700",
+      "description": "<a href=\"https://vnexpress.net/noi-nao-o-trung-quoc-duoc-goi-la-thu-phu-thit-cho-4993743.html\"><img src=\"https://vcdn1-dulich.vnecdn.net/2025/12/14/tixung46-1765715286-1765715303-4095-1765715315.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=5dpITna-JHLcXd6ATlVr1w\" /></a>Thành phố ở miền Nam Trung Quốc có lễ hội thịt chó lớn nhất cả nước với khoảng 10.000 con được tiêu thụ trong sự kiện kéo dài 10 ngày, vào tháng 6 hằng năm.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/canh-sat-chan-bat-doan-moto-vi-pham-tren-quoc-lo-1-4993731.html",
       "title": "Cảnh sát chặn bắt đoàn môtô vi phạm trên quốc lộ 1",
       "link": "https://vnexpress.net/canh-sat-chan-bat-doan-moto-vi-pham-tren-quoc-lo-1-4993731.html",
       "pubDate": "Sun, 14 Dec 2025 19:04:46 +0700",
       "description": "<a href=\"https://vnexpress.net/canh-sat-chan-bat-doan-moto-vi-pham-tren-quoc-lo-1-4993731.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/14/a-nh-chu-p-ma-n-hi-nh-2025-12-5233-8086-1765713771.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=goF_GXJ14LHjFdziXQf0fQ\" /></a>16 môtô phân khối lớn che biển số, chạy quá tốc độ, sai làn đường, không có giấy phép bị cảnh sát chốt chặn xử lý.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/ung-dung-y-te-thong-minh-kham-suc-khoe-mien-phi-cho-nguoi-dan-4993719.html",
-      "title": "Ứng dụng y tế thông minh khám sức khỏe miễn phí cho người dân",
-      "link": "https://vnexpress.net/ung-dung-y-te-thong-minh-kham-suc-khoe-mien-phi-cho-nguoi-dan-4993719.html",
-      "pubDate": "Sun, 14 Dec 2025 19:00:12 +0700",
-      "description": "Bộ Y tế đặt mục tiêu từ năm 2026, mỗi người dân sẽ được khám sức khỏe định kỳ miễn phí ít nhất một lần mỗi năm nhờ ứng dụng trí tuệ nhân tạo và dữ liệu số.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/pho-chu-tich-kn-holdings-nhan-danh-hieu-anh-hung-lao-dong-4993733.html",
-      "title": "Phó chủ tịch KN Holdings nhận danh hiệu Anh hùng Lao động",
-      "link": "https://vnexpress.net/pho-chu-tich-kn-holdings-nhan-danh-hieu-anh-hung-lao-dong-4993733.html",
-      "pubDate": "Sun, 14 Dec 2025 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/pho-chu-tich-kn-holdings-nhan-danh-hieu-anh-hung-lao-dong-4993733.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2025/12/14/anh-2-2-1765711822-1765711841-2517-1765711981.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=qGGJ_ZifsEkLmJowGotJzQ\" /></a>Bà Lê Nữ Thùy Dương, Phó chủ tịch Hội đồng quản trị kiêm Tổng giám đốc Tập đoàn KN Holdings được trao danh hiệu Anh hùng Lao động, ngày 6/12.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/gio-anh-huong-the-nao-den-runner-4993055.html",
-      "title": "Gió ảnh hưởng thế nào đến runner",
-      "link": "https://vnexpress.net/gio-anh-huong-the-nao-den-runner-4993055.html",
-      "pubDate": "Sun, 14 Dec 2025 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/gio-anh-huong-the-nao-den-runner-4993055.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/14/a-nh-2-19-jpg-1765680110-17656-4203-1715-1765680319.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=hhzPV4eKZhFHstyt6wBSIQ\" /></a>Chạy ngược gió có thể khiến runner chậm thêm hơn chục giây mỗi km, trong khi xuôi gió có thể cải thiện pace khoảng 8 giây mỗi km.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/odw-logistics-tang-cuong-kha-nang-quan-sat-kho-tai-trung-tam-my-4991066.html",
-      "title": "ODW Logistics tăng cường khả năng quan sát kho tại trung tâm Mỹ",
-      "link": "https://vnexpress.net/odw-logistics-tang-cuong-kha-nang-quan-sat-kho-tai-trung-tam-my-4991066.html",
-      "pubDate": "Sun, 14 Dec 2025 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/odw-logistics-tang-cuong-kha-nang-quan-sat-kho-tai-trung-tam-my-4991066.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2025/12/08/odw-logistics-1-2048x1536-1-76-2319-1526-1765166788.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=b6n-v4D4zUsAP6nWwGUsoA\" /></a>Nhà cung cấp dịch vụ logistics bên thứ ba ODW Logistics triển khai hệ thống robot tự động kết hợp nền tảng phân tích dữ liệu DexoryView tại trung tâm phân phối ở Columbus, bang Ohio.",
       "image": ""
     }
   ],
