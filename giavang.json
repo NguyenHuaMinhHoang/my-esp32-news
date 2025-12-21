@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2025-12-21 00:55:14",
-  "last_updated_vn": "00:55 21/12/2025",
+  "last_updated": "2025-12-21 04:30:12",
+  "last_updated_vn": "04:30 21/12/2025",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -85,9 +85,9 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "152,200,000",
+      "buy": "152,000,000",
       "sell": "",
-      "buy_raw": "152.200.000",
+      "buy_raw": "152.000.000",
       "sell_raw": ""
     },
     {
@@ -135,8 +135,5 @@
       "buy_raw": "67.413.165",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2025-12-21T10:22:23.596406+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:22 21/12/2025"
+  ]
 }
