@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2025-12-21 04:30:12",
-  "last_updated_vn": "04:30 21/12/2025",
+  "last_updated": "2025-12-22 00:54:22",
+  "last_updated_vn": "00:54 22/12/2025",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -135,8 +135,5 @@
       "buy_raw": "67.413.165",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2025-12-22T06:11:15.014895+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:11 22/12/2025"
+  ]
 }
