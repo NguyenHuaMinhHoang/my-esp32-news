@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2025-12-22T23:11:17.064463Z",
-  "updated_vn": "2025-12-23T06:11:17.064466+07:00",
-  "schedule_time": "06:11",
+  "updated": "2025-12-23T00:50:09.403206Z",
+  "updated_vn": "2025-12-23T07:50:09.403210+07:00",
+  "schedule_time": "07:50",
   "articles": [
+    {
+      "id": "https://vnexpress.net/harworth-group-sap-trien-khai-hai-du-an-logistics-moi-4994371.html",
+      "title": "Harworth Group sắp triển khai hai dự án logistics mới",
+      "link": "https://vnexpress.net/harworth-group-sap-trien-khai-hai-du-an-logistics-moi-4994371.html",
+      "pubDate": "Tue, 23 Dec 2025 07:00:00 +0700",
+      "description": "<a href=\"https://vnexpress.net/harworth-group-sap-trien-khai-hai-du-an-logistics-moi-4994371.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2025/12/16/resized-chatterley-park-aerial-5149-3129-1765853426.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=1kx7z-becnbu6YtHHLSYLQ\" /></a>Harworth Group Plc đã được cơ quan chức năng phê duyệt hồ sơ quy hoạch chi tiết cho hai nhà kho mới tại dự án Chatterley Park, thành phố Stoke-on-Trent.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/cho-o-ha-noi-chay-du-doi-luc-rang-sang-4997015.html",
+      "title": "Chợ ở Hà Nội cháy dữ dội lúc rạng sáng",
+      "link": "https://vnexpress.net/cho-o-ha-noi-chay-du-doi-luc-rang-sang-4997015.html",
+      "pubDate": "Tue, 23 Dec 2025 06:44:33 +0700",
+      "description": "<a href=\"https://vnexpress.net/cho-o-ha-noi-chay-du-doi-luc-rang-sang-4997015.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/23/Lark20251223065047-1766447474-2473-1766447477.gif?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=RfF5QpmCWH6UoJgmXUPhOg&amp;t=image\" /></a>Hơn 4h, lửa cháy dữ dội bên trong chợ Xanh, phường Phương Liệt, thiêu rụi nhiều ki-ốt rồi lan sang nhà dân xung quanh, người dân dùng bình chữa cháy dập lửa nhưng bất thành.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/diem-tin-6h-muc-thuong-tet-cao-nhat-350-trieu-dong-nguoi-my-tang-gap-ba-tien-ho-tro-cho-nguoi-nhap-cu-tu-truc-xuat-4997010.html",
+      "title": "Điểm tin 6h: Mức thưởng Tết cao nhất 350 triệu đồng/người | Mỹ tăng gấp ba tiền hỗ trợ cho người nhập cư tự trục xuất",
+      "link": "https://vnexpress.net/diem-tin-6h-muc-thuong-tet-cao-nhat-350-trieu-dong-nguoi-my-tang-gap-ba-tien-ho-tro-cho-nguoi-nhap-cu-tu-truc-xuat-4997010.html",
+      "pubDate": "Tue, 23 Dec 2025 06:26:06 +0700",
+      "description": "<a href=\"https://vnexpress.net/diem-tin-6h-muc-thuong-tet-cao-nhat-350-trieu-dong-nguoi-my-tang-gap-ba-tien-ho-tro-cho-nguoi-nhap-cu-tu-truc-xuat-4997010.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/23/taixuong2-1766444183-8111-1766444228.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=nR_sWlU98LQ8OfsjxeU9zg\" /></a>Hà Nội mở bán nhà ở xã hội giá khoảng 10 triệu đồng mỗi mét vuông; Tổng Bí thư: Hoàn thành quy tập hài cốt liệt sĩ Vị Xuyên năm 2027...",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/chay-cho-o-ha-noi-nhieu-ho-dan-phai-so-tan-4997011.html",
+      "title": "Cháy chợ ở Hà Nội, nhiều hộ dân phải sơ tán",
+      "link": "https://vnexpress.net/chay-cho-o-ha-noi-nhieu-ho-dan-phai-so-tan-4997011.html",
+      "pubDate": "Tue, 23 Dec 2025 06:13:14 +0700",
+      "description": "<a href=\"https://vnexpress.net/chay-cho-o-ha-noi-nhieu-ho-dan-phai-so-tan-4997011.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/23/chay1-1766445863-1766445886-5084-1766445892.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=YUfwLh6wcSVDOhjHB_g-uw\" /></a>Chợ Xanh với hơn 100 ki-ốt trên phố Trần Nguyên Đán, phường Phương Liệt, bốc cháy ngùn ngụt, đe dọa nhiều nhà dân xung quanh, sáng 23/12.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/vi-sao-vung-cao-sinh-day-pho-thi-de-thua-4996927.html",
       "title": "Vì sao vùng cao sinh dày, phố thị đẻ thưa?",
       "link": "https://vnexpress.net/vi-sao-vung-cao-sinh-day-pho-thi-de-thua-4996927.html",
       "pubDate": "Tue, 23 Dec 2025 06:00:00 +0700",
       "description": "<a href=\"https://vnexpress.net/vi-sao-vung-cao-sinh-day-pho-thi-de-thua-4996927.html\"><img src=\"https://vcdn1-suckhoe.vnecdn.net/2025/12/22/anh-chup-man-hinh-2025-12-22-l-1629-2956-1766403587.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=vOMLdcb_knvmwn9hrC_LhQ\" /></a>Trong khi TP HCM có mức sinh thấp kỷ lục, nhiều tỉnh miền núi phía Bắc như Điện Biên, Lai Châu vẫn duy trì tỷ lệ sinh vượt ngưỡng thay thế 2,1 con do quan niệm \"trẻ em là nguồn lực lao động và tâm lý dự phòng rủi ro\".",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/chang-trai-anh-tim-thay-tinh-yeu-tren-duong-di-bo-den-viet-nam-4996730.html",
-      "title": "Chàng trai Anh tìm thấy tình yêu trên đường đi bộ đến Việt Nam",
-      "link": "https://vnexpress.net/chang-trai-anh-tim-thay-tinh-yeu-tren-duong-di-bo-den-viet-nam-4996730.html",
-      "pubDate": "Tue, 23 Dec 2025 06:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/chang-trai-anh-tim-thay-tinh-yeu-tren-duong-di-bo-den-viet-nam-4996730.html\"><img src=\"https://vcdn1-dulich.vnecdn.net/2025/12/22/whatsapp-image-2025-12-19-at-1-4703-1382-1766377333.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=4ehhUglzsYVl2KeAupWUdw\" /></a>Từ một chuyến độc hành, Luke Deakin hiện có bạn gái và một chú chó cùng đồng hành trong nỗ lực chinh phục quãng đường 15.000 km từ Anh tới Việt Nam.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/nhung-dua-tre-giua-tam-nhin-cong-trinh-phu-4996621.html",
-      "title": "Những đứa trẻ giữa tầm nhìn 'công trình phụ'",
-      "link": "https://vnexpress.net/nhung-dua-tre-giua-tam-nhin-cong-trinh-phu-4996621.html",
-      "pubDate": "Tue, 23 Dec 2025 06:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/nhung-dua-tre-giua-tam-nhin-cong-trinh-phu-4996621.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/22/nuocnia100-1766413817-17664138-6007-8521-1766419246.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=1tjNbN3TJKVIkS_tIa9JSQ\" /></a>Hàng chục đứa trẻ Hrê trên dưới 10 tuổi chia thành hai phe - trai và gái - đứng đối diện nhau giữa sân trường, thảo luận phân chia \"lãnh thổ\" vệ sinh.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/bi-hai-cuoc-song-chung-cu-4996226.html",
-      "title": "Bi hài cuộc sống chung cư",
-      "link": "https://vnexpress.net/bi-hai-cuoc-song-chung-cu-4996226.html",
-      "pubDate": "Tue, 23 Dec 2025 06:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/bi-hai-cuoc-song-chung-cu-4996226.html\"><img src=\"https://vcdn1-giadinh.vnecdn.net/2025/12/23/chung-cu-2-1766423432-17664234-9485-2253-1766423520.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=YGMqf3cFrzkePqZh2g9Jdg\" /></a>Mất quyền tự chủ, bị tiếng ồn và mùi thức ăn \"tra tấn\" hay ám ảnh sự cố thang máy là những góc khuất khiến nhiều người vỡ mộng sau thời gian ngắn bỏ nhà đất lên chung cư.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/8-dau-an-cua-nganh-khoa-hoc-cong-nghe-2025-4994788.html",
-      "title": "8 dấu ấn của ngành khoa học công nghệ 2025",
-      "link": "https://vnexpress.net/8-dau-an-cua-nganh-khoa-hoc-cong-nghe-2025-4994788.html",
-      "pubDate": "Tue, 23 Dec 2025 06:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/8-dau-an-cua-nganh-khoa-hoc-cong-nghe-2025-4994788.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2025/12/22/trienlam28-1766413935-8623-1766413962.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=XM9u14UAQQdDjSt4iS8eSA\" /></a>Hoàn thiện thể chế cho khoa học công nghệ, tốc độ Internet lần đầu vào top 20, công bố 11 nhóm công nghệ chiến lược, hạ tầng điện hạt nhân có bước tiến mới... là những điểm nhấn của ngành khoa học công nghệ 2025.",
       "image": ""
     }
   ],
