@@ -1,21 +1,21 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2025-12-24 04:28:42",
-  "last_updated_vn": "04:28 24/12/2025",
+  "last_updated": "2025-12-25 00:51:19",
+  "last_updated_vn": "00:51 25/12/2025",
   "total_items": 14,
   "sections": [
-    "Vàng thế giới",
-    "Các thương hiệu vàng"
+    "Các thương hiệu vàng",
+    "Vàng thế giới"
   ],
   "data": [
     {
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "97,542",
+      "buy": "9,765",
       "sell": "",
-      "buy_raw": "97.542",
+      "buy_raw": "97.65",
       "sell_raw": ""
     },
     {
@@ -58,9 +58,9 @@
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "156,800,000",
+      "buy": "156,200,000",
       "sell": "",
-      "buy_raw": "156.800.000",
+      "buy_raw": "156.200.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,723,000",
+      "buy": "2,709,000",
       "sell": "",
-      "buy_raw": "2.723.000",
+      "buy_raw": "2.709.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "72,613,152",
+      "buy": "72,239,819",
       "sell": "",
-      "buy_raw": "72.613.152",
+      "buy_raw": "72.239.819",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2025-12-25T06:11:20.617654+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:11 25/12/2025"
+  ]
 }
