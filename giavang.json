@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-01 00:58:13",
-  "last_updated_vn": "00:58 01/01/2026",
+  "last_updated": "2026-01-01 04:40:42",
+  "last_updated_vn": "04:40 01/01/2026",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -103,9 +103,9 @@
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "150,000,000",
+      "buy": "149,000,000",
       "sell": "",
-      "buy_raw": "150.000.000",
+      "buy_raw": "149.000.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,705,000",
+      "buy": "2,697,000",
       "sell": "",
-      "buy_raw": "2.705.000",
+      "buy_raw": "2.697.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "72,133,153",
+      "buy": "71,919,820",
       "sell": "",
-      "buy_raw": "72.133.153",
+      "buy_raw": "71.919.820",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-01T10:31:12.772874+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:31 01/01/2026"
+  ]
 }
