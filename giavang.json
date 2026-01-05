@@ -1,21 +1,21 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-04 04:41:30",
-  "last_updated_vn": "04:41 04/01/2026",
+  "last_updated": "2026-01-05 00:57:10",
+  "last_updated_vn": "00:57 05/01/2026",
   "total_items": 14,
   "sections": [
-    "Các thương hiệu vàng",
-    "Vàng thế giới"
+    "Vàng thế giới",
+    "Các thương hiệu vàng"
   ],
   "data": [
     {
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "9,816",
+      "buy": "9,826",
       "sell": "",
-      "buy_raw": "98.16",
+      "buy_raw": "98.26",
       "sell_raw": ""
     },
     {
@@ -135,8 +135,5 @@
       "buy_raw": "73.013.151",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-05T06:11:33.854428+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:11 05/01/2026"
+  ]
 }
