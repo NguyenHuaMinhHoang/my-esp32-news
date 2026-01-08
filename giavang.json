@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-08 00:52:44",
-  "last_updated_vn": "00:52 08/01/2026",
+  "last_updated": "2026-01-08 04:31:54",
+  "last_updated_vn": "04:31 08/01/2026",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -85,9 +85,9 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "155,500,000",
+      "buy": "155,300,000",
       "sell": "",
-      "buy_raw": "155.500.000",
+      "buy_raw": "155.300.000",
       "sell_raw": ""
     },
     {
@@ -103,40 +103,37 @@
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "153,500,000",
+      "buy": "153,000,000",
       "sell": "",
-      "buy_raw": "153.500.000",
+      "buy_raw": "153.000.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "152,100,000",
+      "buy": "152,400,000",
       "sell": "",
-      "buy_raw": "152.100.000",
+      "buy_raw": "152.400.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,987,000",
+      "buy": "2,934,000",
       "sell": "",
-      "buy_raw": "2.987.000",
+      "buy_raw": "2.934.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "79,653,134",
+      "buy": "78,239,804",
       "sell": "",
-      "buy_raw": "79.653.134",
+      "buy_raw": "78.239.804",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-08T10:22:41.520924+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:22 08/01/2026"
+  ]
 }
