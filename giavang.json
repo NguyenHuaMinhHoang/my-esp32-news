@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-10 04:26:18",
-  "last_updated_vn": "04:26 10/01/2026",
+  "last_updated": "2026-01-11 00:58:10",
+  "last_updated_vn": "00:58 11/01/2026",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -13,9 +13,9 @@
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "9,891",
+      "buy": "9,889",
       "sell": "",
-      "buy_raw": "98.91",
+      "buy_raw": "98.89",
       "sell_raw": ""
     },
     {
@@ -85,9 +85,9 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "156,800,000",
+      "buy": "156,500,000",
       "sell": "",
-      "buy_raw": "156.800.000",
+      "buy_raw": "156.500.000",
       "sell_raw": ""
     },
     {
@@ -135,8 +135,5 @@
       "buy_raw": "80.133.133",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-11T06:10:56.799756+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:10 11/01/2026"
+  ]
 }
