@@ -1,12 +1,12 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-13 00:47:11",
-  "last_updated_vn": "00:47 13/01/2026",
+  "last_updated": "2026-01-13 04:32:25",
+  "last_updated_vn": "04:32 13/01/2026",
   "total_items": 14,
   "sections": [
-    "Vàng thế giới",
-    "Các thương hiệu vàng"
+    "Các thương hiệu vàng",
+    "Vàng thế giới"
   ],
   "data": [
     {
@@ -85,27 +85,27 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "158,000,000",
+      "buy": "158,300,000",
       "sell": "",
-      "buy_raw": "158.000.000",
+      "buy_raw": "158.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "157,000,000",
+      "buy": "157,300,000",
       "sell": "",
-      "buy_raw": "157.000.000",
+      "buy_raw": "157.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "156,000,000",
+      "buy": "156,500,000",
       "sell": "",
-      "buy_raw": "156.000.000",
+      "buy_raw": "156.500.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,156,000",
+      "buy": "3,226,000",
       "sell": "",
-      "buy_raw": "3.156.000",
+      "buy_raw": "3.226.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "84,159,790",
+      "buy": "86,026,452",
       "sell": "",
-      "buy_raw": "84.159.790",
+      "buy_raw": "86.026.452",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-13T10:21:37.401614+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:21 13/01/2026"
+  ]
 }
