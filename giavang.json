@@ -1,21 +1,21 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-15 04:33:12",
-  "last_updated_vn": "04:33 15/01/2026",
+  "last_updated": "2026-01-16 00:54:04",
+  "last_updated_vn": "00:54 16/01/2026",
   "total_items": 14,
   "sections": [
-    "Vàng thế giới",
-    "Các thương hiệu vàng"
+    "Các thương hiệu vàng",
+    "Vàng thế giới"
   ],
   "data": [
     {
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "98,895",
+      "buy": "99,235",
       "sell": "",
-      "buy_raw": "98.895",
+      "buy_raw": "99.235",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,313,000",
+      "buy": "3,431,000",
       "sell": "",
-      "buy_raw": "3.313.000",
+      "buy_raw": "3.431.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "88,506,445",
+      "buy": "91,493,105",
       "sell": "",
-      "buy_raw": "88.506.445",
+      "buy_raw": "91.493.105",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-16T06:12:13.961291+07:00",
-  "next_update": "07:00",
-  "current_time_vn": "06:12 16/01/2026"
+  ]
 }
