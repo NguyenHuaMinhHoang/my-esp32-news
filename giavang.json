@@ -3,5 +3,8 @@
   "message": "Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\n#0 0x55d9f154240a <unknown>\n#1 0x55d9f0f7676b <unknown>\n#2 0x55d9f0f7d4cf <unknown>\n#3 0x55d9f0f7fb54 <unknown>\n#4 0x55d9f0f7fc23 <unknown>\n#5 0x55d9f0fc2680 <unknown>\n#6 0x55d9f0fbbfe7 <unknown>\n#7 0x55d9f1013760 <unknown>\n#8 0x55d9f0fba7b2 <unknown>\n#9 0x55d9f0fbb461 <unknown>\n#10 0x55d9f150adf9 <unknown>\n#11 0x55d9f150dd5d <unknown>\n#12 0x55d9f14f3b41 <unknown>\n#13 0x55d9f150e93b <unknown>\n#14 0x55d9f14da870 <unknown>\n#15 0x55d9f152f828 <unknown>\n#16 0x55d9f152f9fc <unknown>\n#17 0x55d9f1541763 <unknown>\n#18 0x7f6d00e9caa4 <unknown>\n#19 0x7f6d00f29c6c <unknown>\n",
   "last_updated": "2026-01-20 04:38:05",
   "last_updated_vn": "04:38 20/01/2026",
-  "data": []
+  "data": [],
+  "last_checked": "2026-01-20T14:20:43.977234+07:00",
+  "next_update": "07:00 (ngày mai)",
+  "current_time_vn": "14:20 20/01/2026"
 }
