@@ -1,142 +1,139 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-23 00:54:20",
-  "last_updated_vn": "00:54 23/01/2026",
+  "last_updated": "2026-01-23 04:35:20",
+  "last_updated_vn": "04:35 23/01/2026",
   "total_items": 14,
   "sections": [
-    "Các thương hiệu vàng",
-    "Vàng thế giới"
+    "Vàng thế giới",
+    "Các thương hiệu vàng"
   ],
   "data": [
     {
       "section": "Vàng thế giới",
       "code": "USDX",
       "name": "US DOLLAR INDEX (USDX)",
-      "buy": "9,809",
+      "buy": "9,819",
       "sell": "",
-      "buy_raw": "98.09",
+      "buy_raw": "98.19",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "166,600,000",
+      "buy": "170,300,000",
       "sell": "",
-      "buy_raw": "166.600.000",
+      "buy_raw": "170.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
-      "buy": "167,300,000",
+      "buy": "171,300,000",
       "sell": "",
-      "buy_raw": "167.300.000",
+      "buy_raw": "171.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "166,300,000",
+      "buy": "170,300,000",
       "sell": "",
-      "buy_raw": "166.300.000",
+      "buy_raw": "170.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "165,200,000",
+      "buy": "169,300,000",
       "sell": "",
-      "buy_raw": "165.200.000",
+      "buy_raw": "169.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "164,500,000",
+      "buy": "168,800,000",
       "sell": "",
-      "buy_raw": "164.500.000",
+      "buy_raw": "168.800.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "165,200,000",
+      "buy": "169,300,000",
       "sell": "",
-      "buy_raw": "165.200.000",
+      "buy_raw": "169.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,524,000",
+      "buy": "3,710,000",
       "sell": "",
-      "buy_raw": "3.524.000",
+      "buy_raw": "3.710.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "93,973,098",
+      "buy": "98,933,086",
       "sell": "",
-      "buy_raw": "93.973.098",
+      "buy_raw": "98.933.086",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-23T10:25:45.711914+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:25 23/01/2026"
+  ]
 }
