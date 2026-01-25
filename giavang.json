@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-01-25 00:58:27",
-  "last_updated_vn": "00:58 25/01/2026",
+  "last_updated": "2026-01-25 04:45:05",
+  "last_updated_vn": "04:45 25/01/2026",
   "total_items": 14,
   "sections": [
     "Vàng thế giới",
@@ -135,8 +135,5 @@
       "buy_raw": "103.519.741",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-01-25T10:45:38.882376+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "10:45 25/01/2026"
+  ]
 }
