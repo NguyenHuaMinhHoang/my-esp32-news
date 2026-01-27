@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-01-27T14:21:44.457577Z",
-  "updated_vn": "2026-01-27T21:21:44.457581+07:00",
-  "schedule_time": "21:21",
+  "updated": "2026-01-27T16:17:24.148915Z",
+  "updated_vn": "2026-01-27T23:17:24.148919+07:00",
+  "schedule_time": "23:17",
   "articles": [
+    {
+      "id": "https://vnexpress.net/bi-bat-vi-dang-bai-tim-nguoi-am-sat-ong-trump-5010781.html",
+      "title": "Bị bắt vì đăng bài tìm người ám sát ông Trump",
+      "link": "https://vnexpress.net/bi-bat-vi-dang-bai-tim-nguoi-am-sat-ong-trump-5010781.html",
+      "pubDate": "Tue, 27 Jan 2026 22:41:03 +0700",
+      "description": "<a href=\"https://vnexpress.net/bi-bat-vi-dang-bai-tim-nguoi-am-sat-ong-trump-5010781.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/morganmorrow1jpg-1769525388-7774-1769525539.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=EOua2sBPxk2-kbHgShSfrw\" /></a>Một nữ thủ thư tại bang Tây Virginia bị bắt sau khi đăng video ngụ ý tìm sát thủ nhắm vào Tổng thống Trump.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/to-hop-tuyen-sinh-va-cach-tinh-diem-xet-tuyen-dai-hoc-tai-chinh-marketing-2026-chinh-xac-nhat-5010689.html",
+      "title": "Đại học Tài chính - Marketing dự kiến nhân đôi điểm môn Toán",
+      "link": "https://vnexpress.net/to-hop-tuyen-sinh-va-cach-tinh-diem-xet-tuyen-dai-hoc-tai-chinh-marketing-2026-chinh-xac-nhat-5010689.html",
+      "pubDate": "Tue, 27 Jan 2026 22:28:35 +0700",
+      "description": "<a href=\"https://vnexpress.net/to-hop-tuyen-sinh-va-cach-tinh-diem-xet-tuyen-dai-hoc-tai-chinh-marketing-2026-chinh-xac-nhat-5010689.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/1-2-1769505658-1769505712-1472-1769505812.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=h8D-7N5KEhzpEh4tsYNogQ\" /></a>Tất cả tổ hợp tuyển sinh năm 2026 của trường Đại học Tài chính - Marketing (UFM) đều có môn Toán, điểm nhân hệ số 2.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/hoa-phat-muon-lam-4-du-an-dien-mat-troi-o-quang-ngai-5010774.html",
+      "title": "Hòa Phát muốn làm 4 dự án điện mặt trời ở Quảng Ngãi",
+      "link": "https://vnexpress.net/hoa-phat-muon-lam-4-du-an-dien-mat-troi-o-quang-ngai-5010774.html",
+      "pubDate": "Tue, 27 Jan 2026 22:23:42 +0700",
+      "description": "<a href=\"https://vnexpress.net/hoa-phat-muon-lam-4-du-an-dien-mat-troi-o-quang-ngai-5010774.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/01/27/IMG2303-1769527102-8385-1769527422.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=o6kKiCTyHTyZ8XadGytbVw\" /></a>Hòa Phát tính làm 4 dự án điện mặt trời quy mô 500 MW tại Quảng Ngãi để tự chủ năng lượng và đáp ứng tiêu chuẩn xuất khẩu xanh.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/ba-giam-doc-bi-bat-trong-vu-do-trom-7-800-tan-chat-thai-ran-o-ha-noi-5010773.html",
+      "title": "Ba giám đốc bị bắt trong vụ đổ trộm 7.800 tấn chất thải rắn ở Hà Nội",
+      "link": "https://vnexpress.net/ba-giam-doc-bi-bat-trong-vu-do-trom-7-800-tan-chat-thai-ran-o-ha-noi-5010773.html",
+      "pubDate": "Tue, 27 Jan 2026 20:36:42 +0700",
+      "description": "<a href=\"https://vnexpress.net/ba-giam-doc-bi-bat-trong-vu-do-trom-7-800-tan-chat-thai-ran-o-ha-noi-5010773.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/1-jpeg-1769519758-1769519790-1-1349-9555-1769520345.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=KUn8e5CfHiiUQQIEjPKuYA\" /></a>Ba giám đốc trong lĩnh vực môi trường bị bắt trong vụ đổ hơn 7.800 tấn chất thải rắn ra khu đất 2.000 m2 ở Bát Tràng với giá 100.000-150.000 đồng một chuyến ôtô.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/viet-nam-thong-bao-ket-qua-dai-hoi-dang-xiv-toi-quoc-te-5010752.html",
       "title": "Việt Nam thông báo kết quả Đại hội Đảng XIV tới quốc tế",
       "link": "https://vnexpress.net/viet-nam-thong-bao-ket-qua-dai-hoi-dang-xiv-toi-quoc-te-5010752.html",
       "pubDate": "Tue, 27 Jan 2026 20:33:49 +0700",
       "description": "<a href=\"https://vnexpress.net/viet-nam-thong-bao-ket-qua-dai-hoi-dang-xiv-toi-quoc-te-5010752.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/z74730170431055d2b44e06fe3b74c-1827-3555-1769516986.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=1xkuSPs-dDu7tXBGdkTE5A\" /></a>Việt Nam thông báo kết quả Đại hội Đảng XIV tới các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế, nhấn mạnh sự kiện trọng đại này là dấu mốc lịch sử.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/cach-phong-tranh-virus-nipah-khi-di-du-lich-nuoc-ngoai-5010322.html",
-      "title": "Cách phòng tránh virus Nipah khi đi du lịch nước ngoài",
-      "link": "https://vnexpress.net/cach-phong-tranh-virus-nipah-khi-di-du-lich-nuoc-ngoai-5010322.html",
-      "pubDate": "Tue, 27 Jan 2026 20:30:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/cach-phong-tranh-virus-nipah-khi-di-du-lich-nuoc-ngoai-5010322.html\"><img src=\"https://vcdn1-dulich.vnecdn.net/2026/01/27/bkk-1769496835-1769496873-9426-1769497100.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Sljb2xQZOSzWHcKwqoM_aQ\" /></a>Các cơ quan y tế hướng dẫn du khách vệ sinh cá nhân và tránh tiếp xúc động vật nhằm giảm thiểu rủi ro lây nhiễm virus Nipah.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html",
-      "title": "Việt Nam thắng ngược trận ra quân giải futsal châu Á",
-      "link": "https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html",
-      "pubDate": "Tue, 27 Jan 2026 20:28:32 +0700",
-      "description": "<a href=\"https://vnexpress.net/viet-nam-thang-nguoc-tran-ra-quan-giai-futsal-chau-a-5010770.html\"><img src=\"https://vcdn1-thethao.vnecdn.net/2026/01/27/screenshot20260127at192214-176-7507-1433-1769519840.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=a8j-3bfOnqCrtkougdlWyQ\" /></a>Bị Kuwait dẫn 2-0, nhưng các cầu thủ Việt Nam vẫn thắng 5-4 trong trận ra quân giải vô địch futsal châu Á 2026 tối 27/1.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/nuoc-nao-co-nhieu-nguoi-song-tren-100-tuoi-nhat-the-gioi-5010644.html",
-      "title": "Nước nào có nhiều người sống trên 100 tuổi nhất thế giới?",
-      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-nguoi-song-tren-100-tuoi-nhat-the-gioi-5010644.html",
-      "pubDate": "Tue, 27 Jan 2026 20:11:07 +0700",
-      "description": "<a href=\"https://vnexpress.net/nuoc-nao-co-nhieu-nguoi-song-tren-100-tuoi-nhat-the-gioi-5010644.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/istock10475372921920x1280-1769-5687-8405-1769503961.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=mFwrgNbYG4aWfQZOfOxbYA\" /></a>Quốc gia này năm ngoái có gần 100.000 cụ ông, cụ bà trên 100 tuổi, đông nhất từ trước đến nay và đứng đầu thế giới.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html",
-      "title": "Y tá bị đặc vụ Mỹ bắn chết từng nhận được thư tri ân",
-      "link": "https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html",
-      "pubDate": "Tue, 27 Jan 2026 20:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/y-ta-bi-dac-vu-my-ban-chet-tung-nhan-duoc-thu-tri-an-5010699.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/01/27/alex-pretti-ap-jt-260124-17692-6704-4866-1769505339.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=6zKd0YVsvZH-zW1NapOfTg\" /></a>Pretti, y tá bị đặc vụ liên bang bắn chết ở Minnesota, là y tá từng nhận thư tri ân của Bộ Cựu binh, được các đồng nghiệp ca ngợi vì lòng tận tụy.",
       "image": ""
     }
   ],
