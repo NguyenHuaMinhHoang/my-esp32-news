@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-02-01 04:20:25",
-  "last_updated_vn": "04:20 01/02/2026",
+  "last_updated": "2026-02-02 04:13:18",
+  "last_updated_vn": "04:13 02/02/2026",
   "total_items": 14,
   "sections": [
     "Vàng thế giới",
@@ -22,121 +22,118 @@
       "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "169,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
-      "buy": "178,000,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "178.000.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "169,000,000",
+      "buy": "166,500,000",
       "sell": "",
-      "buy_raw": "169.000.000",
+      "buy_raw": "166.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "168,800,000",
+      "buy": "165,600,000",
       "sell": "",
-      "buy_raw": "168.800.000",
+      "buy_raw": "165.600.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "168,500,000",
+      "buy": "165,100,000",
       "sell": "",
-      "buy_raw": "168.500.000",
+      "buy_raw": "165.100.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "168,000,000",
+      "buy": "165,100,000",
       "sell": "",
-      "buy_raw": "168.000.000",
+      "buy_raw": "165.100.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,175,000",
+      "buy": "2,893,000",
       "sell": "",
-      "buy_raw": "3.175.000",
+      "buy_raw": "2.893.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "84,666,455",
+      "buy": "77,146,474",
       "sell": "",
-      "buy_raw": "84.666.455",
+      "buy_raw": "77.146.474",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-02-02T08:04:07.125520+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:04 02/02/2026"
+  ]
 }
