@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-02-11 04:20:28",
-  "last_updated_vn": "04:20 11/02/2026",
+  "last_updated": "2026-02-12 04:13:44",
+  "last_updated_vn": "04:13 12/02/2026",
   "total_items": 14,
   "sections": [
     "Vàng thế giới",
@@ -85,9 +85,9 @@
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "177,600,000",
+      "buy": "178,000,000",
       "sell": "",
-      "buy_raw": "177.600.000",
+      "buy_raw": "178.000.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,077,000",
+      "buy": "3,122,000",
       "sell": "",
-      "buy_raw": "3.077.000",
+      "buy_raw": "3.122.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "82,053,128",
+      "buy": "83,253,125",
       "sell": "",
-      "buy_raw": "82.053.128",
+      "buy_raw": "83.253.125",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-02-12T08:05:11.899333+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:05 12/02/2026"
+  ]
 }
