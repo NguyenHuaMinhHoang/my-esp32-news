@@ -1,9 +1,33 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-02-17T14:39:07.704898Z",
-  "updated_vn": "2026-02-17T21:39:07.704902+07:00",
-  "schedule_time": "21:39",
+  "updated": "2026-02-17T16:43:37.053537Z",
+  "updated_vn": "2026-02-17T23:43:37.053540+07:00",
+  "schedule_time": "23:43",
   "articles": [
+    {
+      "id": "https://vnexpress.net/nga-canh-bao-dung-chien-ham-ngan-phuong-tay-bat-tau-cho-dau-5042053.html",
+      "title": "Nga cảnh báo dùng chiến hạm ngăn phương Tây bắt tàu chở dầu",
+      "link": "https://vnexpress.net/nga-canh-bao-dung-chien-ham-ngan-phuong-tay-bat-tau-cho-dau-5042053.html",
+      "pubDate": "Tue, 17 Feb 2026 22:44:47 +0700",
+      "description": "<a href=\"https://vnexpress.net/nga-canh-bao-dung-chien-ham-ngan-phuong-tay-bat-tau-cho-dau-5042053.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/17/ta-u-chie-n-nga-jpeg-177133465-9396-7741-1771334983.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=_a5HhCA2FRWQJ7BW1yEq3w\" /></a>Quan chức cấp cao Nga cảnh báo nước này có thể triển khai hải quân đến các vùng biển chiến lược, ngăn phương Tây truy bắt tàu chở dầu.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/lanh-tu-toi-cao-khamenei-my-khong-the-huy-diet-iran-5042052.html",
+      "title": "Lãnh tụ tối cao Khamenei: Mỹ không thể hủy diệt Iran",
+      "link": "https://vnexpress.net/lanh-tu-toi-cao-khamenei-my-khong-the-huy-diet-iran-5042052.html",
+      "pubDate": "Tue, 17 Feb 2026 22:00:26 +0700",
+      "description": "<a href=\"https://vnexpress.net/lanh-tu-toi-cao-khamenei-my-khong-the-huy-diet-iran-5042052.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/17/ap25164501718394-2139-17713342-5961-2232-1771334892.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=uk7cRDm-buIj2l4uGPSWDQ\" /></a>Lãnh tụ tối cao Iran Ali Khamenei tuyên bố ông Trump không thể hủy diệt Iran, trong bối cảnh hai nước đang đàm phán tại Geneva.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/nhieu-nguoi-nhap-vien-cap-cuu-dem-giao-thua-5041968.html",
+      "title": "Nhiều người nhập viện cấp cứu đêm Giao thừa",
+      "link": "https://vnexpress.net/nhieu-nguoi-nhap-vien-cap-cuu-dem-giao-thua-5041968.html",
+      "pubDate": "Tue, 17 Feb 2026 21:31:46 +0700",
+      "description": "<a href=\"https://vnexpress.net/nhieu-nguoi-nhap-vien-cap-cuu-dem-giao-thua-5041968.html\"><img src=\"https://vcdn1-suckhoe.vnecdn.net/2026/02/17/1-1771296216-1771296260-177129-5417-1931-1771296603.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=cloOAFDbLnMUrU2Dgy7f4Q\" /></a>Thời khắc chuyển giao năm mới Tết Bính Ngọ, Bệnh viện E tiếp nhận nhiều bệnh nhân nặng từ sốc nhiễm khuẩn, viêm tụy cấp đến chấn thương do tai nạn giao thông và biến chứng tim mạch.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/nguyen-thanh-vinh-duong-tu-a-quan-olympia-den-giao-su-dai-hoc-top-20-the-gioi-5041559.html",
       "title": "GS Nguyễn Thành Vinh: Tôi vượt qua thất bại bằng sự kiên nhẫn của người Việt",
@@ -18,30 +42,6 @@
       "link": "https://vnexpress.net/chong-vo-tu-ve-que-an-tet-de-vo-mang-bau-sap-sinh-o-nha-mot-minh-5042015.html",
       "pubDate": "Tue, 17 Feb 2026 21:00:00 +0700",
       "description": "<a href=\"https://vnexpress.net/chong-vo-tu-ve-que-an-tet-de-vo-mang-bau-sap-sinh-o-nha-mot-minh-5042015.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/17/geminigeneratedimagewwqy8ywwqy-4389-5439-1771317707.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Cm5ZN2pESHQjP-xhDh7RZg\" /></a>Tôi không ghen tị với tình cảm anh dành cho bố mẹ, chỉ chạnh lòng vì trong sự ưu tiên ấy, mẹ con tôi dường như đứng sau cùng.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-u40-luong-40-trieu-ung-dung-thue-nha-5041794.html",
-      "title": "U40 lương 40 triệu ung dung thuê nhà",
-      "link": "https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-u40-luong-40-trieu-ung-dung-thue-nha-5041794.html",
-      "pubDate": "Tue, 17 Feb 2026 21:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-u40-luong-40-trieu-ung-dung-thue-nha-5041794.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/16/geminigeneratedimage7ly70d7ly7-9606-1693-1771223872.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=j0xhcqZL3amJeU2ngN7JZg\" /></a>Điều tôi thấy mình làm đúng nhất sau 15 năm đi làm là không 'liều mạng' vay nợ mua nhà bằng mọi giá.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html",
-      "title": "Khỉ con ôm thú bông gây sốt ở Nhật Bản",
-      "link": "https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html",
-      "pubDate": "Tue, 17 Feb 2026 20:54:18 +0700",
-      "description": "<a href=\"https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/17/untitled-1771329422-1771329518-6939-1771329531.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=6gipw5M8BRE4cBpvlr60fQ\" /></a>Con khỉ bị mẹ bỏ rơi ở sở thú tỉnh Chiba tìm thấy niềm an ủi từ một con thú nhồi bông, khiến nhiều người Nhật Bản chú ý.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html",
-      "title": "Dàn sao sum họp gia đình ngày đầu năm Bính Ngọ",
-      "link": "https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html",
-      "pubDate": "Tue, 17 Feb 2026 20:40:18 +0700",
-      "description": "<a href=\"https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html\"><img src=\"https://vcdn1-giaitri.vnecdn.net/2026/02/17/ly-hai-1-1771319596.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=sCZqg4md93KK3WuA41ZPKg\" /></a>Vợ chồng Lý Hải đưa các con về quê đón Tết bên mẹ hơn 100 tuổi, Mỹ Tâm không nhận show đầu năm để quây quần gia đình.",
       "image": ""
     }
   ],
