@@ -1,23 +1,31 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-02-27T14:31:49.888286Z",
-  "updated_vn": "2026-02-27T21:31:49.888288+07:00",
-  "schedule_time": "21:31",
+  "updated": "2026-02-27T16:27:57.239800Z",
+  "updated_vn": "2026-02-27T23:27:57.239803+07:00",
+  "schedule_time": "23:27",
   "articles": [
+    {
+      "id": "https://vnexpress.net/cuu-bo-truong-y-te-nguyen-thi-kim-tien-khai-duoc-cap-duoi-dua-7-5-ty-dong-5044880.html",
+      "title": "Cựu Bộ trưởng Y tế Nguyễn Thị Kim Tiến khai được cấp dưới đưa 7,5 tỷ đồng",
+      "link": "https://vnexpress.net/cuu-bo-truong-y-te-nguyen-thi-kim-tien-khai-duoc-cap-duoi-dua-7-5-ty-dong-5044880.html",
+      "pubDate": "Fri, 27 Feb 2026 22:23:14 +0700",
+      "description": "<a href=\"https://vnexpress.net/cuu-bo-truong-y-te-nguyen-thi-kim-tien-khai-duoc-cap-duoi-dua-7-5-ty-dong-5044880.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/27/tie-n-1772204611-1772204648-8427-1772204883.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=V-ucOUOoW_sLof3vLdIwiA\" /></a>Sau khi nhận 100 tỷ đồng từ các nhà thầu, hai bị can khai đã đưa cựu Bộ trưởng Nguyễn Thị Kim Tiến hơn 20,4 tỷ đồng, song bà thừa nhận chỉ cầm 7,5 tỷ.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-se-chuyen-toan-bo-xe-taxi-chay-xang-dau-sang-xe-dien-5044877.html",
+      "title": "Hà Nội sẽ chuyển toàn bộ xe taxi chạy xăng, dầu sang xe điện",
+      "link": "https://vnexpress.net/ha-noi-se-chuyen-toan-bo-xe-taxi-chay-xang-dau-sang-xe-dien-5044877.html",
+      "pubDate": "Fri, 27 Feb 2026 21:38:37 +0700",
+      "description": "<a href=\"https://vnexpress.net/ha-noi-se-chuyen-toan-bo-xe-taxi-chay-xang-dau-sang-xe-dien-5044877.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/27/gp-1772201284-4053-1772201389.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=sDBoJvCefEGbcTL88zU0oA\" /></a>Thành phố yêu cầu chậm nhất đến năm 2030, toàn bộ xe taxi chạy xăng, dầu sang sử dụng điện, năng lượng xanh.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/chu-tich-samsung-tac-nhan-ai-dang-gan-gui-hon-nho-smartphone-5044874.html",
       "title": "Chủ tịch Samsung: 'Tác nhân AI đang gần gũi hơn nhờ smartphone'",
       "link": "https://vnexpress.net/chu-tich-samsung-tac-nhan-ai-dang-gan-gui-hon-nho-smartphone-5044874.html",
       "pubDate": "Fri, 27 Feb 2026 21:31:13 +0700",
       "description": "<a href=\"https://vnexpress.net/chu-tich-samsung-tac-nhan-ai-dang-gan-gui-hon-nho-smartphone-5044874.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/27/screenshot-2026-02-27-at-20-55-7707-1937-1772202622.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=-yZm0wozJuxj7uQrbIVqsA\" /></a>Ông TM Roh, Chủ tịch phụ trách mảng trải nghiệm thiết bị của Samsung, cho rằng tác nhân AI (Agentic AI) đang có bước tiến lớn và \"gần gũi\" người dùng smartphone hơn.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/de-xuat-chi-38-500-ty-dong-hoi-sinh-he-thong-bac-hung-hai-5044869.html",
-      "title": "Đề xuất chi 38.500 tỷ đồng hồi sinh hệ thống Bắc Hưng Hải",
-      "link": "https://vnexpress.net/de-xuat-chi-38-500-ty-dong-hoi-sinh-he-thong-bac-hung-hai-5044869.html",
-      "pubDate": "Fri, 27 Feb 2026 21:26:22 +0700",
-      "description": "<a href=\"https://vnexpress.net/de-xuat-chi-38-500-ty-dong-hoi-sinh-he-thong-bac-hung-hai-5044869.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/27/anh-1-1772194972-7848-1772194997.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=XZac_Ne6onnfuqC05fxKmg\" /></a>Bắc Hưng Hải, từng là hệ thống thủy nông lớn nhất miền bắc, được đề xuất đầu tư kiểm soát chất lượng nước, giảm ô nhiễm, xây dựng hệ thống đô thị sinh thái dọc kênh.",
       "image": ""
     },
     {
@@ -34,14 +42,6 @@
       "link": "https://vnexpress.net/nguoi-phu-nu-nuoc-ngoai-mang-4-5-kg-cocaine-khi-qua-canh-o-tan-son-nhat-5044881.html",
       "pubDate": "Fri, 27 Feb 2026 21:10:02 +0700",
       "description": "<a href=\"https://vnexpress.net/nguoi-phu-nu-nuoc-ngoai-mang-4-5-kg-cocaine-khi-qua-canh-o-tan-son-nhat-5044881.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/27/haoquan1-1772200763-1772200886-2875-1772201103.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=RcOXUNivF6bCHbBBfkRSaQ\" /></a>Hải quan phát hiện người phụ nữ quốc tịch Thái Lan vận chuyển 4,5 kg cocaine giấu trong valy khi đang làm thủ tục quá cảnh tại sân bay Tân Sơn Nhất.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/vien-co-tham-con-chong-cu-khoa-cua-dinh-gio-tro-doi-bai-roi-danh-dap-toi-da-man-vi-bi-cu-tuyet-5044038.html",
-      "title": "Sợ hãi khi bị chồng cũ đánh đập, đòi xâm hại",
-      "link": "https://vnexpress.net/vien-co-tham-con-chong-cu-khoa-cua-dinh-gio-tro-doi-bai-roi-danh-dap-toi-da-man-vi-bi-cu-tuyet-5044038.html",
-      "pubDate": "Fri, 27 Feb 2026 21:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/vien-co-tham-con-chong-cu-khoa-cua-dinh-gio-tro-doi-bai-roi-danh-dap-toi-da-man-vi-bi-cu-tuyet-5044038.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/02/25/geminigeneratedimageltdf27ltdf-8691-9860-1772034082.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=mdu9uYWGgsjx5vJLgWZIrA\" /></a>Tôi thực sự rất sợ, giờ sống trong tâm trạng bất an khi nhà chỉ có hai mẹ con.",
       "image": ""
     }
   ],
