@@ -1,16 +1,25 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-02-28 04:48:05",
-  "last_updated_vn": "04:48 28/02/2026",
-  "total_items": 13,
+  "last_updated": "2026-03-01 04:12:27",
+  "last_updated_vn": "04:12 01/03/2026",
+  "total_items": 14,
   "sections": [
-    "Chung",
+    "Vàng thế giới",
     "Các thương hiệu vàng"
   ],
   "data": [
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
+      "code": "USDX",
+      "name": "US DOLLAR INDEX (USDX)",
+      "buy": "9,686",
+      "sell": "",
+      "buy_raw": "96.86",
+      "sell_raw": ""
+    },
+    {
+      "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
       "buy": "184,000,000",
@@ -19,7 +28,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
       "buy": "184,000,000",
@@ -28,7 +37,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
       "buy": "184,000,000",
@@ -37,7 +46,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
       "buy": "184,000,000",
@@ -46,7 +55,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
       "buy": "184,000,000",
@@ -55,7 +64,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
       "buy": "184,000,000",
@@ -64,7 +73,7 @@
       "sell_raw": ""
     },
     {
-      "section": "Chung",
+      "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
       "buy": "181,000,000",
@@ -85,9 +94,9 @@
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "183,800,000",
+      "buy": "184,000,000",
       "sell": "",
-      "buy_raw": "183.800.000",
+      "buy_raw": "184.000.000",
       "sell_raw": ""
     },
     {
@@ -126,8 +135,5 @@
       "buy_raw": "93.466.433",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-03-01T08:09:56.793297+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:09 01/03/2026"
+  ]
 }
