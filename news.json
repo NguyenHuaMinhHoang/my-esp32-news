@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-03-11T14:40:10.901767Z",
-  "updated_vn": "2026-03-11T21:40:10.901771+07:00",
-  "schedule_time": "21:40",
+  "updated": "2026-03-11T16:38:59.204657Z",
+  "updated_vn": "2026-03-11T23:38:59.204664+07:00",
+  "schedule_time": "23:38",
   "articles": [
+    {
+      "id": "https://vnexpress.net/tai-xe-lui-xe-tai-dang-chay-xuong-muong-nuoc-de-dap-lua-5049363.html",
+      "title": "Tài xế lùi xe tải đang cháy xuống mương nước để dập lửa",
+      "link": "https://vnexpress.net/tai-xe-lui-xe-tai-dang-chay-xuong-muong-nuoc-de-dap-lua-5049363.html",
+      "pubDate": "Wed, 11 Mar 2026 23:11:12 +0700",
+      "description": "<a href=\"https://vnexpress.net/tai-xe-lui-xe-tai-dang-chay-xuong-muong-nuoc-de-dap-lua-5049363.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/Sequence02-1773244064-2551-1773244661.gif?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=ue_yj5RJN8zDMm06yp5ccg&amp;t=image\" /></a>Trên đường giao hàng tạp hóa cho khách ở phường Đông Hòa, ôtô tải bất ngờ bốc cháy dữ dội, tài xế phải lùi xe xuống mương nước để cứu phương tiện.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-hau-nhu-khong-con-gi-de-nham-muc-tieu-o-iran-5049355.html",
+      "title": "Ông Trump: Hầu như không còn gì để nhắm mục tiêu ở Iran",
+      "link": "https://vnexpress.net/ong-trump-hau-nhu-khong-con-gi-de-nham-muc-tieu-o-iran-5049355.html",
+      "pubDate": "Wed, 11 Mar 2026 22:40:06 +0700",
+      "description": "<a href=\"https://vnexpress.net/ong-trump-hau-nhu-khong-con-gi-de-nham-muc-tieu-o-iran-5049355.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/ap26068782477303-1773241037-2762-1773241246.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=AleNmNFJzriEhuH41QCAUg\" /></a>Ông Trump tiếp tục phát tín hiệu về khả năng sớm kết thúc chiến dịch nhằm vào Iran, tuyên bố Mỹ đã gây nhiều thiệt hại cho đối phương hơn dự kiến.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html",
+      "title": "Giá xăng giảm gần 4.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html",
+      "pubDate": "Wed, 11 Mar 2026 21:59:41 +0700",
+      "description": "<a href=\"https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-11-3-5049264.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/03/11/4e1db11f-d037-4ee1-9032-317c4b-8601-9238-1773246147.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=fsfLH7f_rU1Kd50R7OgfFQ\" /></a>Từ 22h hôm nay, giá xăng RON95-III giảm xuống 25.240 đồng, dầu diesel hạ 4.240 đồng ở mức 26.470 đồng một lít.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html",
+      "title": "Các nước IEA sẽ xả 400 triệu thùng dầu dự trữ",
+      "link": "https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html",
+      "pubDate": "Wed, 11 Mar 2026 21:44:29 +0700",
+      "description": "<a href=\"https://vnexpress.net/cac-nuoc-iea-se-xa-400-trieu-thung-dau-du-tru-5049356.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/03/11/oil-japan-1773239727-177323976-9117-3038-1773239826.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=NuFYYlQouRKiTW6C5l-Yhg\" /></a>Để hạ nhiệt giá dầu thế giới, các nước thuộc Cơ quan Năng lượng Quốc tế (IEA) sẽ giải phóng lượng dầu thô kỷ lục từ kho dự trữ.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/israel-noi-chien-dich-nham-vao-iran-se-khong-gioi-han-thoi-gian-5049337.html",
       "title": "Israel nói chiến dịch nhằm vào Iran sẽ không giới hạn thời gian",
       "link": "https://vnexpress.net/israel-noi-chien-dich-nham-vao-iran-se-khong-gioi-han-thoi-gian-5049337.html",
       "pubDate": "Wed, 11 Mar 2026 21:24:44 +0700",
-      "description": "<a href=\"https://vnexpress.net/israel-noi-chien-dich-nham-vao-iran-se-khong-gioi-han-thoi-gian-5049337.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/image-from-ios-11-1773235236-1-7417-4882-1773235723.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=avi3mkAmkn29Sdf5xLuibg\" /></a>Bộ trưởng Quốc phòng Israel tuyên bố chiến dịch hiệp đồng giữa nước này với Mỹ nhằm vào Iran sẽ tiếp tục cho đến khi cần thiết.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/hai-phong-se-la-sieu-do-thi-bien-9-5-trieu-dan-5049346.html",
-      "title": "Hải Phòng sẽ là siêu đô thị biển 9,5 triệu dân",
-      "link": "https://vnexpress.net/hai-phong-se-la-sieu-do-thi-bien-9-5-trieu-dan-5049346.html",
-      "pubDate": "Wed, 11 Mar 2026 21:22:42 +0700",
-      "description": "<a href=\"https://vnexpress.net/hai-phong-se-la-sieu-do-thi-bien-9-5-trieu-dan-5049346.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/z6567814337250-6607bc11917dcf6-8558-4743-1773236247.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Kn9MKjtQ8uEpMJZnvugBnQ\" /></a>Theo định hướng của Chính phủ, Hải Phòng được xác định là đô thị loại đặc biệt, trung tâm kinh tế biển quan trọng của quốc gia, dân số 9,5 triệu người đến năm 2050.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/iran-canh-bao-gia-dau-co-the-len-200-usd-5049354.html",
-      "title": "Iran cảnh báo giá dầu có thể lên 200 USD",
-      "link": "https://vnexpress.net/iran-canh-bao-gia-dau-co-the-len-200-usd-5049354.html",
-      "pubDate": "Wed, 11 Mar 2026 21:21:23 +0700",
-      "description": "<a href=\"https://vnexpress.net/iran-canh-bao-gia-dau-co-the-len-200-usd-5049354.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/03/11/saudi-aramco-fire-1773238554-1-9244-4706-1773238670.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=eEcczuCpGPPcFzmjIuLlhA\" /></a>Quân đội Iran ngày 11/3 cảnh báo giá dầu thế giới có thể lên 200 USD, tức hơn gấp đôi mức hiện tại.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/boc-tach-nhan-xo-tu-cung-nang-2-1-kg-cho-nguoi-phu-nu-5048678.html",
-      "title": "Bóc tách nhân xơ tử cung nặng 2,1 kg cho người phụ nữ",
-      "link": "https://vnexpress.net/boc-tach-nhan-xo-tu-cung-nang-2-1-kg-cho-nguoi-phu-nu-5048678.html",
-      "pubDate": "Wed, 11 Mar 2026 21:21:23 +0700",
-      "description": "<a href=\"https://vnexpress.net/boc-tach-nhan-xo-tu-cung-nang-2-1-kg-cho-nguoi-phu-nu-5048678.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/10/ttut-bscki-nguyen-thi-thanh-th-7948-7900-1773115322.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=YpOrYz8KHdjtRS5I6nGGIg\" /></a>Người phụ nữ 53 tuổi đau âm ỉ vùng bụng dưới kèm đau ngực, bác sĩ phát hiện khối đa nhân xơ tử cung nặng hơn 2 kg.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/cuu-song-co-gai-nhay-cau-truong-tien-tren-song-huong-5049344.html",
-      "title": "Cứu sống cô gái nhảy cầu Trường Tiền trên sông Hương",
-      "link": "https://vnexpress.net/cuu-song-co-gai-nhay-cau-truong-tien-tren-song-huong-5049344.html",
-      "pubDate": "Wed, 11 Mar 2026 21:11:26 +0700",
-      "description": "<a href=\"https://vnexpress.net/cuu-song-co-gai-nhay-cau-truong-tien-tren-song-huong-5049344.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/649972252-948068994407776-6576-9446-6904-1773235828.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=_W-V5wIFsoHYW9drVkpMCA\" /></a>Cô gái 31 tuổi ở phường Thuận Hóa gieo mình xuống sông Hương từ cầu Trường Tiền, được cảnh sát kịp thời cứu sống, ngày 11/3.",
+      "description": "<a href=\"https://vnexpress.net/israel-noi-chien-dich-nham-vao-iran-se-khong-gioi-han-thoi-gian-5049337.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/11/image-from-ios-11-1773235236-1-7417-4882-1773235723.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=avi3mkAmkn29Sdf5xLuibg\" /></a>Bộ trưởng Quốc phòng Israel tuyên bố chiến dịch hiệp đồng giữa nước này với Mỹ nhằm vào Iran sẽ tiếp diễn chừng nào còn cần thiết.",
       "image": ""
     }
   ],
