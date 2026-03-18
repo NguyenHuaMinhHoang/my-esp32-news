@@ -1,12 +1,12 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-03-17 04:07:37",
-  "last_updated_vn": "04:07 17/03/2026",
+  "last_updated": "2026-03-18 04:13:19",
+  "last_updated_vn": "04:13 18/03/2026",
   "total_items": 14,
   "sections": [
-    "Các thương hiệu vàng",
-    "Vàng thế giới"
+    "Vàng thế giới",
+    "Các thương hiệu vàng"
   ],
   "data": [
     {
@@ -31,18 +31,18 @@
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "179,600,000",
+      "buy": "180,000,000",
       "sell": "",
-      "buy_raw": "179.600.000",
+      "buy_raw": "180.000.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "179,600,000",
+      "buy": "180,000,000",
       "sell": "",
-      "buy_raw": "179.600.000",
+      "buy_raw": "180.000.000",
       "sell_raw": ""
     },
     {
@@ -67,9 +67,9 @@
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "179,600,000",
+      "buy": "180,000,000",
       "sell": "",
-      "buy_raw": "179.600.000",
+      "buy_raw": "180.000.000",
       "sell_raw": ""
     },
     {
@@ -103,9 +103,9 @@
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "179,600,000",
+      "buy": "180,000,000",
       "sell": "",
-      "buy_raw": "179.600.000",
+      "buy_raw": "180.000.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "3,052,000",
+      "buy": "2,954,000",
       "sell": "",
-      "buy_raw": "3.052.000",
+      "buy_raw": "2.954.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "81,386,463",
+      "buy": "78,773,136",
       "sell": "",
-      "buy_raw": "81.386.463",
+      "buy_raw": "78.773.136",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-03-18T08:07:52.085378+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:07 18/03/2026"
+  ]
 }
