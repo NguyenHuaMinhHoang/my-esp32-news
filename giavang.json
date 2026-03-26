@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-03-25 04:09:12",
-  "last_updated_vn": "04:09 25/03/2026",
+  "last_updated": "2026-03-26 04:23:43",
+  "last_updated_vn": "04:23 26/03/2026",
   "total_items": 14,
   "sections": [
     "Vàng thế giới",
@@ -22,27 +22,27 @@
       "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
@@ -58,27 +58,27 @@
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
@@ -94,49 +94,46 @@
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "172,000,000",
+      "buy": "170,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "170.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "171,800,000",
+      "buy": "170,300,000",
       "sell": "",
-      "buy_raw": "171.800.000",
+      "buy_raw": "170.300.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,761,000",
+      "buy": "2,694,000",
       "sell": "",
-      "buy_raw": "2.761.000",
+      "buy_raw": "2.694.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "73,626,483",
+      "buy": "71,839,820",
       "sell": "",
-      "buy_raw": "73.626.483",
+      "buy_raw": "71.839.820",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-03-26T08:11:52.874393+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:11 26/03/2026"
+  ]
 }
