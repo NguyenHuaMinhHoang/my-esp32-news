@@ -1,9 +1,25 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-03-29T14:24:32.734304Z",
-  "updated_vn": "2026-03-29T21:24:32.734309+07:00",
-  "schedule_time": "21:24",
+  "updated": "2026-03-29T16:22:16.701286Z",
+  "updated_vn": "2026-03-29T23:22:16.701291+07:00",
+  "schedule_time": "23:22",
   "articles": [
+    {
+      "id": "https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html",
+      "title": "Quan chức UAE yêu cầu Iran bồi thường",
+      "link": "https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html",
+      "pubDate": "Sun, 29 Mar 2026 22:14:30 +0700",
+      "description": "<a href=\"https://vnexpress.net/quan-chuc-uae-yeu-cau-iran-boi-thuong-5056184.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/29/tap-kich-uae-1774795890-177479-8761-4724-1774796311.webp?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=mewQySIRcx3o1aUsBjH3UA\" /></a>Cố vấn Tổng thống UAE kêu gọi Iran bồi thường những thiệt hại do các cuộc tấn công do Tehran tiến hành nhằm vào nước này.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/xe-dau-keo-tong-sap-tuong-truong-mam-non-5056135.html",
+      "title": "Xe đầu kéo tông sập tường trường mầm non",
+      "link": "https://vnexpress.net/xe-dau-keo-tong-sap-tuong-truong-mam-non-5056135.html",
+      "pubDate": "Sun, 29 Mar 2026 22:14:17 +0700",
+      "description": "<a href=\"https://vnexpress.net/xe-dau-keo-tong-sap-tuong-truong-mam-non-5056135.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/29/3316b8a2-9cfa-4ad4-b8eb-cc6c1f-9633-6953-1774783280.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=85dNjY4ukYPbnL7qN0jAnQ\" /></a>Tài xế xe đầu kéo không làm chủ phần đường, tông thẳng vào tường rào trường mầm non Hồng Vân ở xã A Lưới 1, chiều 29/3.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/em-be-chao-doi-voi-doi-canh-nho-tren-lung-5056038.html",
       "title": "Em bé chào đời với 'đôi cánh nhỏ' trên lưng",
@@ -21,27 +37,11 @@
       "image": ""
     },
     {
-      "id": "https://vnexpress.net/giai-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-de-tai-tien-si-5056164.html",
-      "title": "Giải khoa học kỹ thuật của học sinh bị tố giống đề tài tiến sĩ",
-      "link": "https://vnexpress.net/giai-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-de-tai-tien-si-5056164.html",
+      "id": "https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-luan-an-tien-si-5056164.html",
+      "title": "Giải nhất khoa học kỹ thuật của học sinh bị tố giống luận án tiến sĩ",
+      "link": "https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-luan-an-tien-si-5056164.html",
       "pubDate": "Sun, 29 Mar 2026 20:56:13 +0700",
-      "description": "<a href=\"https://vnexpress.net/giai-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-de-tai-tien-si-5056164.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/29/ba2c1a91-5991-4f51-9b24-dbb45d-6527-9322-1774793543.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=eaMLct3330qaV7gk1o5oJw\" /></a>Dự án phát triển vật liệu chống cháy của học sinh Ninh Bình bị tố có nhiều chi tiết \"giống hệt\" nghiên cứu của một PGS và nghiên cứu sinh, Bộ Giáo dục nói \"sẽ rà soát\".",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/bahrain-ap-lenh-gioi-nghiem-hang-hai-5056159.html",
-      "title": "Bahrain áp lệnh giới nghiêm hàng hải",
-      "link": "https://vnexpress.net/bahrain-ap-lenh-gioi-nghiem-hang-hai-5056159.html",
-      "pubDate": "Sun, 29 Mar 2026 20:55:28 +0700",
-      "description": "<a href=\"https://vnexpress.net/bahrain-ap-lenh-gioi-nghiem-hang-hai-5056159.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/29/bahrain-1774790494-1774790541-2392-1774791008.webp?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=rhp0lCh8LI0g47AYuTzd0A\" /></a>Bahrain áp lệnh giới nghiêm hàng hải nhằm tăng cường an ninh trên vùng biển chủ quyền, giữa lúc nước này hứng chịu những cuộc tấn công từ Iran.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/nu-giao-su-lay-trom-hang-loat-mau-virus-cum-a-5056131.html",
-      "title": "Nữ giáo sư lấy trộm hàng loạt mẫu virus cúm A",
-      "link": "https://vnexpress.net/nu-giao-su-lay-trom-hang-loat-mau-virus-cum-a-5056131.html",
-      "pubDate": "Sun, 29 Mar 2026 20:37:57 +0700",
-      "description": "<a href=\"https://vnexpress.net/nu-giao-su-lay-trom-hang-loat-mau-virus-cum-a-5056131.html\"><img src=\"https://vcdn1-suckhoe.vnecdn.net/2026/03/29/trom1-1774790441-1774790693-6688-1774791005.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=QSRhBRR-juXzMi-mkfXsBQ\" /></a>Cảnh sát Brazil (PF) vừa bắt giữ nữ giáo sư thuộc Đại học Campinas (Unicamp) do lấy trộm các chủng virus cúm A gồm H1N1, H3N2 cùng nhiều mầm bệnh khác từ phòng thí nghiệm an toàn sinh học cấp độ 3 (BSL-3).",
+      "description": "<a href=\"https://vnexpress.net/giai-nhat-khoa-hoc-ky-thuat-cua-hoc-sinh-bi-to-giong-luan-an-tien-si-5056164.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/03/29/ba2c1a91-5991-4f51-9b24-dbb45d-6527-9322-1774793543.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=eaMLct3330qaV7gk1o5oJw\" /></a>Dự án phát triển vật liệu chống cháy của học sinh Ninh Bình bị tố có nhiều chi tiết \"giống hệt\" nghiên cứu của một PGS và nghiên cứu sinh, Bộ Giáo dục nói \"sẽ rà soát\".",
       "image": ""
     }
   ],
