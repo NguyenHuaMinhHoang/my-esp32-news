@@ -1,12 +1,12 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-04-05 04:27:30",
-  "last_updated_vn": "04:27 05/04/2026",
+  "last_updated": "2026-04-06 04:34:37",
+  "last_updated_vn": "04:34 06/04/2026",
   "total_items": 14,
   "sections": [
-    "Các thương hiệu vàng",
-    "Vàng thế giới"
+    "Vàng thế giới",
+    "Các thương hiệu vàng"
   ],
   "data": [
     {
@@ -22,121 +22,118 @@
       "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
-      "buy": "171,500,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.500.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "169,500,000",
+      "buy": "168,100,000",
       "sell": "",
-      "buy_raw": "169.500.000",
+      "buy_raw": "168.100.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "171,000,000",
+      "buy": "169,900,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "169.900.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "171,000,000",
+      "buy": "170,100,000",
       "sell": "",
-      "buy_raw": "171.000.000",
+      "buy_raw": "170.100.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "171,300,000",
+      "buy": "169,900,000",
       "sell": "",
-      "buy_raw": "171.300.000",
+      "buy_raw": "169.900.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,742,000",
+      "buy": "2,706,000",
       "sell": "",
-      "buy_raw": "2.742.000",
+      "buy_raw": "2.706.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "73,119,817",
+      "buy": "72,159,820",
       "sell": "",
-      "buy_raw": "73.119.817",
+      "buy_raw": "72.159.820",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-04-06T08:15:23.956848+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:15 06/04/2026"
+  ]
 }
