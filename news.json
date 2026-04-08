@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-04-08T15:00:55.777980Z",
-  "updated_vn": "2026-04-08T22:00:55.777986+07:00",
-  "schedule_time": "22:00",
+  "updated": "2026-04-08T16:50:16.628880Z",
+  "updated_vn": "2026-04-08T23:50:16.628884+07:00",
+  "schedule_time": "23:50",
   "articles": [
+    {
+      "id": "https://vnexpress.net/nguoi-danh-nho-nuoc-bot-vao-phu-nu-bi-tam-giu-5060218.html",
+      "title": "Người đánh, nhổ nước bọt vào phụ nữ bị tạm giữ",
+      "link": "https://vnexpress.net/nguoi-danh-nho-nuoc-bot-vao-phu-nu-bi-tam-giu-5060218.html",
+      "pubDate": "Wed, 08 Apr 2026 22:43:06 +0700",
+      "description": "<a href=\"https://vnexpress.net/nguoi-danh-nho-nuoc-bot-vao-phu-nu-bi-tam-giu-5060218.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/z770527878707539aa25453fa2bb14-6976-9393-1775661503.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=wawz6M96-DkXldg-_kBZFw\" /></a>Nguyễn Văn Ý, 35 tuổi, tấn công, nhổ nước bọt vào người phụ nữ phục vụ ở quán bánh bèo trên đường Hoàng Văn Thụ.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/san-bay-da-nang-thi-diem-loi-di-rieng-cho-khach-dung-vneid-5060213.html",
+      "title": "Sân bay Đà Nẵng thí điểm lối đi riêng cho khách dùng VNeID",
+      "link": "https://vnexpress.net/san-bay-da-nang-thi-diem-loi-di-rieng-cho-khach-dung-vneid-5060213.html",
+      "pubDate": "Wed, 08 Apr 2026 22:22:19 +0700",
+      "description": "<a href=\"https://vnexpress.net/san-bay-da-nang-thi-diem-loi-di-rieng-cho-khach-dung-vneid-5060213.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/anh-chup-man-hinh-luc-17756590-7019-7247-1775659158.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=wsQTX71cO_GgEGlmI9ZSqg\" /></a>Từ ngày 10/4, hành khách có tài khoản định danh điện tử mức 2 được sử dụng lối đi riêng khi làm thủ tục bay tại cảng hàng không quốc tế Đà Nẵng.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/co-nen-o-qua-dem-khi-lan-dau-ve-choi-nha-ban-trai-cach-300-km-5060216.html",
+      "title": "Có nên ở qua đêm khi lần đầu về chơi nhà bạn trai cách 300 km?",
+      "link": "https://vnexpress.net/co-nen-o-qua-dem-khi-lan-dau-ve-choi-nha-ban-trai-cach-300-km-5060216.html",
+      "pubDate": "Wed, 08 Apr 2026 22:07:31 +0700",
+      "description": "<a href=\"https://vnexpress.net/co-nen-o-qua-dem-khi-lan-dau-ve-choi-nha-ban-trai-cach-300-km-5060216.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/GeminiGeneratedImagey7ugqny7ug-6268-1416-1775660437.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=skb4GHOP7Yv0EfCEg26NJQ\" /></a>Tôi là con gái, ngủ lại nhà người yêu khi chưa cưới khiến tôi thấy không thoải mái.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-hoan-nghenh-lenh-ngung-ban-giua-my-va-iran-5060211.html",
+      "title": "Việt Nam hoan nghênh lệnh ngừng bắn giữa Mỹ và Iran",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-lenh-ngung-ban-giua-my-va-iran-5060211.html",
+      "pubDate": "Wed, 08 Apr 2026 21:48:12 +0700",
+      "description": "<a href=\"https://vnexpress.net/viet-nam-hoan-nghenh-lenh-ngung-ban-giua-my-va-iran-5060211.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/huy-jpg-1775658405-1622-1775658585.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=fGFx19y0pslOmkAL9k7PIA\" /></a>Bộ Ngoại giao Việt Nam hoan nghênh thỏa thuận ngừng bắn tạm thời mà Mỹ và Iran vừa đạt được, cho rằng đây là bước tiến quan trọng để giảm căng thẳng.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/duong-pho-iran-dong-kin-nguoi-sau-lenh-ngung-ban-5060144.html",
       "title": "Đường phố Iran đông kín người sau lệnh ngừng bắn",
       "link": "https://vnexpress.net/duong-pho-iran-dong-kin-nguoi-sau-lenh-ngung-ban-5060144.html",
       "pubDate": "Wed, 08 Apr 2026 21:18:53 +0700",
       "description": "<a href=\"https://vnexpress.net/duong-pho-iran-dong-kin-nguoi-sau-lenh-ngung-ban-5060144.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/Anhmanhinh20260408luc183141-17-9268-2616-1775657634.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=iIewZBXpjuRMJYK4sqSCcQ\" /></a>Nhiều nơi ở Tehran, người dân đổ xuống đường, hô khẩu hiệu sau lệnh ngừng bắn hai tuần với Mỹ được công bố ngày 8/4.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/ca-tay-chan-mieng-tp-hcm-tang-hon-60-5060183.html",
-      "title": "Ca tay chân miệng TP HCM tăng hơn 60%",
-      "link": "https://vnexpress.net/ca-tay-chan-mieng-tp-hcm-tang-hon-60-5060183.html",
-      "pubDate": "Wed, 08 Apr 2026 21:10:52 +0700",
-      "description": "TP HCM ghi nhận thêm 1.347 ca mắc tay chân miệng trong tuần qua, tăng 64% so với trung bình 4 tuần trước, nâng tổng số bệnh nhân từ đầu năm vượt 10.000.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060164.html",
-      "title": "Các tỷ phú Việt có thêm 2 tỷ USD trong phiên chứng khoán tăng kỷ lục",
-      "link": "https://vnexpress.net/cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060164.html",
-      "pubDate": "Wed, 08 Apr 2026 21:03:50 +0700",
-      "description": "<a href=\"https://vnexpress.net/cac-ty-phu-viet-co-them-2-ty-usd-trong-phien-chung-khoan-tang-ky-luc-5060164.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/04/08/typhu2177315756217731576031449-6400-2663-1775645317.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=WD7FsEP7Q9X7iwehp7k-ng\" /></a>Tài sản của 8 tỷ phú Việt Nam đã tăng hơn 2 tỷ USD trong ngày 8/4, trong đó, gia đình ông Phạm Nhật Vượng có thêm hơn 1,6 tỷ USD.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/loc-xoay-lam-toc-mai-nhieu-nha-dan-o-lam-dong-5060204.html",
-      "title": "Lốc xoáy làm tốc mái nhiều nhà dân ở Lâm Đồng",
-      "link": "https://vnexpress.net/loc-xoay-lam-toc-mai-nhieu-nha-dan-o-lam-dong-5060204.html",
-      "pubDate": "Wed, 08 Apr 2026 21:02:45 +0700",
-      "description": "<a href=\"https://vnexpress.net/loc-xoay-lam-toc-mai-nhieu-nha-dan-o-lam-dong-5060204.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/b9-1775656930-4545-1775656941.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=2dPqmIrtayLT1B2Q4ETDFw\" /></a>Mưa lớn kèm lốc xoáy kéo dài gần một giờ tại khu vực TP Bảo Lộc (cũ) làm nhiều nhà dân bị tốc mái, cây xanh gãy đổ, giao thông gián đoạn, chiều 8/4.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/xe-lao-xuong-vuc-nui-va-dap-nhu-bom-no-khong-ai-kip-thoat-5060161.html",
-      "title": "'Xe lao xuống vực núi, va đập như bom nổ, không ai kịp thoát'",
-      "link": "https://vnexpress.net/xe-lao-xuong-vuc-nui-va-dap-nhu-bom-no-khong-ai-kip-thoat-5060161.html",
-      "pubDate": "Wed, 08 Apr 2026 21:00:13 +0700",
-      "description": "<a href=\"https://vnexpress.net/xe-lao-xuong-vuc-nui-va-dap-nhu-bom-no-khong-ai-kip-thoat-5060161.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/08/2-1775655814-1483-1775656542.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=nx0nkc0hGMT3MyIWsKLtPg\" /></a>Anh Lê Cung Bắc vừa rời thùng xe vài giây, ôtô tải chở 4 người bất ngờ trôi và rơi xuống vực núi phát ra tiếng nổ như bom, không ai kịp thoát.",
       "image": ""
     }
   ],
