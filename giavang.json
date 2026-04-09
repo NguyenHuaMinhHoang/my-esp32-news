@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-04-08 04:27:15",
-  "last_updated_vn": "04:27 08/04/2026",
+  "last_updated": "2026-04-09 04:23:41",
+  "last_updated_vn": "04:23 09/04/2026",
   "total_items": 14,
   "sections": [
     "Các thương hiệu vàng",
@@ -22,121 +22,118 @@
       "section": "Vàng thế giới",
       "code": "SJL1L10",
       "name": "SJC 1 LƯỢNG",
-      "buy": "172,000,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHNL",
       "name": "DOJI HN",
-      "buy": "173,100,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "173.100.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "DOHCML",
       "name": "DOJI HCM",
-      "buy": "173,100,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "173.100.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
-      "buy": "172,500,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.500.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "PQHNVM",
       "name": "PHÚ QUÝ SJC",
-      "buy": "172,000,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VNGSJC",
       "name": "VÀNG VIỆT NAM SJC",
-      "buy": "172,000,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Vàng thế giới",
       "code": "VIETTINMSJC",
       "name": "VIETINBANK SJC",
-      "buy": "172,000,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "BT9999NTT",
       "name": "NHẪN TRÒN TRƠN VÀNG RỒNG TL BTMC",
-      "buy": "171,500,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "171.500.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQHN24NTT",
       "name": "NHẪN TRÒN PHÚ QUÝ 999.9",
-      "buy": "172,000,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "172.000.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "DOJINHTV",
       "name": "NHẪN DOJI HƯNG THỊNH VƯỢNG 9999",
-      "buy": "173,100,000",
+      "buy": "167,500,000",
       "sell": "",
-      "buy_raw": "173.100.000",
+      "buy_raw": "167.500.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "SJ9999",
       "name": "NHẪN SJC 999.9",
-      "buy": "171,500,000",
+      "buy": "167,000,000",
       "sell": "",
-      "buy_raw": "171.500.000",
+      "buy_raw": "167.000.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,871,000",
+      "buy": "2,782,000",
       "sell": "",
-      "buy_raw": "2.871.000",
+      "buy_raw": "2.782.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "76,559,809",
+      "buy": "74,186,481",
       "sell": "",
-      "buy_raw": "76.559.809",
+      "buy_raw": "74.186.481",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-04-09T08:04:29.800802+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:04 09/04/2026"
+  ]
 }
