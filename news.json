@@ -1,9 +1,33 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-04-20T15:08:15.051040Z",
-  "updated_vn": "2026-04-20T22:08:15.051044+07:00",
-  "schedule_time": "22:08",
+  "updated": "2026-04-20T16:52:26.361258Z",
+  "updated_vn": "2026-04-20T23:52:26.361261+07:00",
+  "schedule_time": "23:52",
   "articles": [
+    {
+      "id": "https://vnexpress.net/16-16-bo-gui-phuong-an-cat-giam-thu-tuc-hanh-chinh-5064871.html",
+      "title": "16/16 bộ gửi phương án cắt giảm thủ tục hành chính",
+      "link": "https://vnexpress.net/16-16-bo-gui-phuong-an-cat-giam-thu-tuc-hanh-chinh-5064871.html",
+      "pubDate": "Mon, 20 Apr 2026 22:48:26 +0700",
+      "description": "<a href=\"https://vnexpress.net/16-16-bo-gui-phuong-an-cat-giam-thu-tuc-hanh-chinh-5064871.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/20/img3865-1776698518-4310-1776698696.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=i0OU56VKeTgLbA_jsWamiw\" /></a>Đến 18/4, toàn bộ 16 bộ, cơ quan ngang bộ đã gửi phương án cắt giảm thủ tục hành chính, nhưng chỉ 3 bộ đạt đủ chỉ tiêu, nhiều đơn vị còn chậm hoặc không đạt yêu cầu.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thuoc-do-chinh-sach-la-doi-song-dong-bao-5064831.html",
+      "title": "Tổng Bí thư, Chủ tịch nước: Thước đo chính sách là đời sống đồng bào",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thuoc-do-chinh-sach-la-doi-song-dong-bao-5064831.html",
+      "pubDate": "Mon, 20 Apr 2026 22:23:31 +0700",
+      "description": "<a href=\"https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thuoc-do-chinh-sach-la-doi-song-dong-bao-5064831.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/20/vna-potal-tong-bi-thu-chu-tich-1582-4583-1776698574.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=yZ-5maB3TjW95bp1rofPnQ\" /></a>Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu đổi mới căn bản chính sách dân tộc, chuyển từ giảm nghèo sang trao cơ hội phát triển, lấy cải thiện đời sống người dân làm thước đo hiệu quả.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/nam-sinh-mat-tich-tren-nui-tam-dao-hon-100-nguoi-dang-tim-kiem-5064860.html",
+      "title": "Nam sinh mất tích trên núi Tam Đảo, hơn 100 người đang tìm kiếm",
+      "link": "https://vnexpress.net/nam-sinh-mat-tich-tren-nui-tam-dao-hon-100-nguoi-dang-tim-kiem-5064860.html",
+      "pubDate": "Mon, 20 Apr 2026 22:07:37 +0700",
+      "description": "<a href=\"https://vnexpress.net/nam-sinh-mat-tich-tren-nui-tam-dao-hon-100-nguoi-dang-tim-kiem-5064860.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/20/675319993-n-1776694775-5644-1776694851.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=AtdxlNCcvFAzq6yPXIPUIw\" /></a>UBND xã Đạo Trù huy động hơn 100 người và flycam gắn camera nhiệt, khẩn trương tìm kiếm một nam sinh mất tích khi leo núi tại khu vực rừng núi Tam Đảo.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/iran-mo-lai-cac-san-bay-o-tehran-5064853.html",
       "title": "Iran mở lại các sân bay ở Tehran",
@@ -18,30 +42,6 @@
       "link": "https://vnexpress.net/khong-che-o-dich-viem-nao-mo-cau-tai-trai-giam-o-ca-mau-5064835.html",
       "pubDate": "Mon, 20 Apr 2026 21:30:19 +0700",
       "description": "Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Cà Mau thông báo đã khống chế ổ dịch viêm não mô cầu tại Trại giam Cái Tàu, xã Khánh An, sau thời gian giám sát và xử lý.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/quang-tri-phat-hien-hang-dong-dang-ho-sut-co-thac-nuoc-dai-gan-600-m-5064855.html",
-      "title": "Quảng Trị phát hiện hang động dạng hố sụt có thác nước dài gần 600 m",
-      "link": "https://vnexpress.net/quang-tri-phat-hien-hang-dong-dang-ho-sut-co-thac-nuoc-dai-gan-600-m-5064855.html",
-      "pubDate": "Mon, 20 Apr 2026 21:29:57 +0700",
-      "description": "<a href=\"https://vnexpress.net/quang-tri-phat-hien-hang-dong-dang-ho-sut-co-thac-nuoc-dai-gan-600-m-5064855.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/20/2-1776692496-3681-1776692903.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=cm-l2Pcmupp0G7m41w1cXw\" /></a>Đoàn thám hiểm hang động Anh - Việt vừa phát hiện một hang động dạng hố sụt dài khoảng 583 m, bên trong có thác nước, trong Vườn Quốc gia Phong Nha - Kẻ Bàng.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/sex-toi-nhu-an-xin-moi-lan-muon-gan-gui-vo-5064509.html",
-      "title": "Tôi như 'ăn xin' mỗi lần muốn gần gũi vợ",
-      "link": "https://vnexpress.net/sex-toi-nhu-an-xin-moi-lan-muon-gan-gui-vo-5064509.html",
-      "pubDate": "Mon, 20 Apr 2026 21:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/sex-toi-nhu-an-xin-moi-lan-muon-gan-gui-vo-5064509.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/04/20/GeminiGeneratedImage6ufeuv6ufe-2618-6485-1776676347.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=WP2Dq8JukErYvewyFHqpoQ\" /></a>Chuyện là chúng tôi kết hôn được bảy năm nhưng số lần vợ chủ động trong chuyện đó, tôi đếm được trên đầu ngón tay.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/gen-z-tai-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
-      "title": "Gen Z tại TP HCM trúng Jackpot gần 80 tỷ đồng",
-      "link": "https://vnexpress.net/gen-z-tai-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html",
-      "pubDate": "Mon, 20 Apr 2026 20:47:06 +0700",
-      "description": "<a href=\"https://vnexpress.net/gen-z-tai-tp-hcm-trung-jackpot-gan-80-ty-dong-5064845.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/04/20/img-jpg-1776690806-7196-1776690830.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=zq1KF0fWr1FXEP-F-PBl4Q\" /></a>Một Gen Z làm văn phòng tại TP HCM vừa trúng Jackpot trị giá gần 80 tỷ đồng, nhận về khoảng 71 tỷ sau khi trừ thuế.",
       "image": ""
     }
   ],
