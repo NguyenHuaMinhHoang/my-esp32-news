@@ -1,8 +1,8 @@
 {
   "status": "success",
   "source": "https://giavang.net/",
-  "last_updated": "2026-04-26 04:50:38",
-  "last_updated_vn": "04:50 26/04/2026",
+  "last_updated": "2026-04-27 04:58:25",
+  "last_updated_vn": "04:58 27/04/2026",
   "total_items": 14,
   "sections": [
     "Vàng thế giới",
@@ -49,9 +49,9 @@
       "section": "Vàng thế giới",
       "code": "BTSJC",
       "name": "BTMC SJC",
-      "buy": "166,200,000",
+      "buy": "166,300,000",
       "sell": "",
-      "buy_raw": "166.200.000",
+      "buy_raw": "166.300.000",
       "sell_raw": ""
     },
     {
@@ -121,22 +121,19 @@
       "section": "Các thương hiệu vàng",
       "code": "PQBT",
       "name": "BẠC MIẾNG - THỎI PHÚ QUÝ 999 1LƯỢNG",
-      "buy": "2,868,000",
+      "buy": "2,896,000",
       "sell": "",
-      "buy_raw": "2.868.000",
+      "buy_raw": "2.896.000",
       "sell_raw": ""
     },
     {
       "section": "Các thương hiệu vàng",
       "code": "PQBT1KLG",
       "name": "BẠC THỎI PHÚ QUÝ 999 1KiLO",
-      "buy": "76,479,809",
+      "buy": "77,226,474",
       "sell": "",
-      "buy_raw": "76.479.809",
+      "buy_raw": "77.226.474",
       "sell_raw": ""
     }
-  ],
-  "last_checked": "2026-04-27T08:25:39.903036+07:00",
-  "next_update": "11:00",
-  "current_time_vn": "08:25 27/04/2026"
+  ]
 }
