@@ -1,15 +1,31 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-05-03T14:40:55.771967Z",
-  "updated_vn": "2026-05-03T21:40:55.771970+07:00",
-  "schedule_time": "21:40",
+  "updated": "2026-05-03T16:35:41.140634Z",
+  "updated_vn": "2026-05-03T23:35:41.140638+07:00",
+  "schedule_time": "23:35",
   "articles": [
     {
+      "id": "https://vnexpress.net/cuu-hlv-alex-ferguson-nhap-vien-5069417.html",
+      "title": "Cựu HLV Alex Ferguson nhập viện",
+      "link": "https://vnexpress.net/cuu-hlv-alex-ferguson-nhap-vien-5069417.html",
+      "pubDate": "Sun, 03 May 2026 22:14:09 +0700",
+      "description": "<a href=\"https://vnexpress.net/cuu-hlv-alex-ferguson-nhap-vien-5069417.html\"><img src=\"https://vcdn1-thethao.vnecdn.net/2026/05/03/alex-ferguson-1777821136-7776-1777821172.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=GfDMIlg4yq-UKecjWV0LVA\" /></a>Cựu HLV Man Utd Alex Ferguson, 84 tuổi, nhập viện vì cảm thấy không khỏe trên sân Old Trafford, ngay trước đại chiến giữa Man Utd và Liverpool ở Ngoại hạng Anh.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/the-cong-lai-say-chan-giup-cahn-tien-sat-chuc-vo-dich-v-league-5069407.html",
+      "title": "Thể Công lại sảy chân giúp CAHN tiến sát chức vô địch V-League",
+      "link": "https://vnexpress.net/the-cong-lai-say-chan-giup-cahn-tien-sat-chuc-vo-dich-v-league-5069407.html",
+      "pubDate": "Sun, 03 May 2026 21:47:33 +0700",
+      "description": "<a href=\"https://vnexpress.net/the-cong-lai-say-chan-giup-cahn-tien-sat-chuc-vo-dich-v-league-5069407.html\"><img src=\"https://vcdn1-thethao.vnecdn.net/2026/05/03/z7787040567970bc2b4c60d93757c5-9895-9031-1777818954.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=cLgkmM11Zj_sHEBB1tfbxg\" /></a>Thể Công hòa Ninh Bình 1-1 khiến cách biệt với đầu bảng Công an Hà nội tăng lên 11 điểm, sau vòng 21 V-League 2025-2026.",
+      "image": ""
+    },
+    {
       "id": "https://vnexpress.net/duong-noi-dai-lo-thang-long-voi-cao-toc-ha-noi-hoa-binh-du-kien-thong-truoc-30-6-5069397.html",
-      "title": "Đường nối Đại lộ Thăng Long với cao tốc Hà Nội - Hòa Bình dự kiến thông trước 30/6",
+      "title": "Đường nối đại lộ Thăng Long với cao tốc Hà Nội - Hòa Bình dự kiến thông trước 30/6",
       "link": "https://vnexpress.net/duong-noi-dai-lo-thang-long-voi-cao-toc-ha-noi-hoa-binh-du-kien-thong-truoc-30-6-5069397.html",
       "pubDate": "Sun, 03 May 2026 21:26:49 +0700",
-      "description": "<a href=\"https://vnexpress.net/duong-noi-dai-lo-thang-long-voi-cao-toc-ha-noi-hoa-binh-du-kien-thong-truoc-30-6-5069397.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/03/a1-1777816671-4254-1777817277.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Ii_qE7CRfcKZAd92yYun3A\" /></a>Tuyến đường dài 6,7 km, rộng 120-161 mét nối từ Quốc lộ 21 đến cao tốc Hà Nội - Hòa Bình sẽ thông tuyến trước 30/6, góp phần quan trọng cho sự phát triển phía tây thủ đô.",
+      "description": "<a href=\"https://vnexpress.net/duong-noi-dai-lo-thang-long-voi-cao-toc-ha-noi-hoa-binh-du-kien-thong-truoc-30-6-5069397.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/03/a1-1777816671-4254-1777817277.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Ii_qE7CRfcKZAd92yYun3A\" /></a>Tuyến đường dài 6,7 km, rộng 120-161 mét nối từ Quốc lộ 21 đến cao tốc Hà Nội - Hòa Bình sẽ thông tuyến trước 30/6, góp phần quan trọng phát triển phía tây thủ đô.",
       "image": ""
     },
     {
@@ -26,22 +42,6 @@
       "link": "https://vnexpress.net/hai-linh-my-mat-tich-trong-dien-tap-lon-nhat-o-chau-phi-5069405.html",
       "pubDate": "Sun, 03 May 2026 21:15:01 +0700",
       "description": "<a href=\"https://vnexpress.net/hai-linh-my-mat-tich-trong-dien-tap-lon-nhat-o-chau-phi-5069405.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/03/qua-n-nha-n-my-jpeg-1777816558-4161-1777816575.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=5VZosip9n2ebkq2meIqOVg\" /></a>Hai binh sĩ Mỹ mất tích khi tham gia diễn tập African Lion 2026 tại Morocco, khiến giới chức triển khai nhiều lực lượng để tìm kiếm.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/set-danh-trung-be-chua-nha-may-duong-2-000-tan-mat-tran-ra-ngoai-5069406.html",
-      "title": "Sét đánh trúng bể chứa nhà máy đường, 2.000 tấn mật tràn ra ngoài",
-      "link": "https://vnexpress.net/set-danh-trung-be-chua-nha-may-duong-2-000-tan-mat-tran-ra-ngoai-5069406.html",
-      "pubDate": "Sun, 03 May 2026 21:12:24 +0700",
-      "description": "<a href=\"https://vnexpress.net/set-danh-trung-be-chua-nha-may-duong-2-000-tan-mat-tran-ra-ngoai-5069406.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/03/nhamayduong-1777817042-7383-1777817095.gif?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=TsjbifcD7B4UjaqZNWTzDA&amp;t=image\" /></a>Một tia sét trong cơn giông đánh trúng nhà máy đường ở xã Nhân Hòa, khiến khoảng 2.000 tấn mật tràn ra ngoài khuôn viên, thiệt hại hơn 7 tỷ đồng.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/mua-da-to-bang-qua-trung-do-xuong-nghe-an-ha-tinh-5069395.html",
-      "title": "Mưa đá to bằng quả trứng đổ xuống Nghệ An, Hà Tĩnh",
-      "link": "https://vnexpress.net/mua-da-to-bang-qua-trung-do-xuong-nghe-an-ha-tinh-5069395.html",
-      "pubDate": "Sun, 03 May 2026 21:08:48 +0700",
-      "description": "<a href=\"https://vnexpress.net/mua-da-to-bang-qua-trung-do-xuong-nghe-an-ha-tinh-5069395.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/03/mua-da-nghe-an-1777814864-7746-1777814910.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=qpygygIcx4SGIP6r0TexnA\" /></a>Nhiều xã ở Nghệ An và Hà Tĩnh xuất hiện mưa đá kéo dài 10-25 phút, viên lớn nhất bằng quả trứng gà, khiến nhiều ngôi nhà hư hỏng, hoa màu đổ rạp.",
       "image": ""
     }
   ],
