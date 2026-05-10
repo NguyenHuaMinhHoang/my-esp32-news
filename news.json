@@ -1,47 +1,47 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-05-10T12:48:55.884089Z",
-  "updated_vn": "2026-05-10T19:48:55.884093+07:00",
-  "schedule_time": "19:48",
+  "updated": "2026-05-10T14:43:42.165840Z",
+  "updated_vn": "2026-05-10T21:43:42.165844+07:00",
+  "schedule_time": "21:43",
   "articles": [
+    {
+      "id": "https://vnexpress.net/thiet-ke-xanh-cua-toa-nha-go-cao-nhat-dan-mach-5072208.html",
+      "title": "Thiết kế xanh của tòa nhà gỗ cao nhất Đan Mạch",
+      "link": "https://vnexpress.net/thiet-ke-xanh-cua-toa-nha-go-cao-nhat-dan-mach-5072208.html",
+      "pubDate": "Sun, 10 May 2026 20:32:27 +0700",
+      "description": "<a href=\"https://vnexpress.net/thiet-ke-xanh-cua-toa-nha-go-cao-nhat-dan-mach-5072208.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/10/rasmushjortshojtraeaarhusweb25-9486-7059-1778414180.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=gUgmgxf9wMAJXs2WHRFbRw\" /></a>Trae, tòa nhà gỗ ở thành phố Aarhus, tạo ấn tượng không chỉ vì độ cao mà còn nhờ dùng vật liệu tái chế như cánh turbine gió, cửa sổ.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/giong-loc-khien-47-can-nha-o-dong-thap-bi-sap-toc-mai-5072222.html",
+      "title": "Giông lốc khiến 47 căn nhà ở Đồng Tháp bị sập, tốc mái",
+      "link": "https://vnexpress.net/giong-loc-khien-47-can-nha-o-dong-thap-bi-sap-toc-mai-5072222.html",
+      "pubDate": "Sun, 10 May 2026 20:13:45 +0700",
+      "description": "<a href=\"https://vnexpress.net/giong-loc-khien-47-can-nha-o-dong-thap-bi-sap-toc-mai-5072222.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/10/screenshot-1778418726-5954-1778418783.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=Gx6oLbd0-cFpBEYdJYJ26Q\" /></a>Giông lốc quét qua xã đảo Long Phú Thuận làm 47 căn nhà bị sập, tốc mái, thiệt hại ước tính khoảng một tỷ đồng, chiều 10/5.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/hagl-thua-doi-chot-bang-v-league-tren-san-nha-5072216.html",
+      "title": "HAGL thua đội chót bảng V-League trên sân nhà",
+      "link": "https://vnexpress.net/hagl-thua-doi-chot-bang-v-league-tren-san-nha-5072216.html",
+      "pubDate": "Sun, 10 May 2026 19:51:48 +0700",
+      "description": "<a href=\"https://vnexpress.net/hagl-thua-doi-chot-bang-v-league-tren-san-nha-5072216.html\"><img src=\"https://vcdn1-thethao.vnecdn.net/2026/05/10/z7810890279845164685d2fe41d133-9589-6264-1778416579.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=LycZ9lY3QYm70snAFB-ZAQ\" /></a>Vắng quá nửa đội hình chính, HAGL thất thủ 1-2 trước đội cuối bảng PVF-CAND ở vòng 22 V-League 2025-2026 chiều 10/5.",
+      "image": ""
+    },
+    {
+      "id": "https://vnexpress.net/nuoc-nao-cam-nguoi-dan-va-du-khach-hut-thuoc-la-5072130.html",
+      "title": "Nước nào cấm người dân và du khách hút thuốc lá?",
+      "link": "https://vnexpress.net/nuoc-nao-cam-nguoi-dan-va-du-khach-hut-thuoc-la-5072130.html",
+      "pubDate": "Sun, 10 May 2026 19:43:14 +0700",
+      "description": "<a href=\"https://vnexpress.net/nuoc-nao-cam-nguoi-dan-va-du-khach-hut-thuoc-la-5072130.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/10/MaleCity-1778416907-7796-1778416920.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=KteaHTeiqKvCWiq9hy5ekw\" /></a>Đây là quốc gia đầu tiên trên thế giới cấm người dân và du khách sinh sau năm 2006 hút thuốc lá. Bạn có biết đó là nước nào?",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/iran-canh-bao-hau-qua-voi-cac-quoc-gia-theo-phe-my-5072192.html",
       "title": "Iran cảnh báo hậu quả với các quốc gia 'theo phe Mỹ'",
       "link": "https://vnexpress.net/iran-canh-bao-hau-qua-voi-cac-quoc-gia-theo-phe-my-5072192.html",
       "pubDate": "Sun, 10 May 2026 19:20:22 +0700",
       "description": "<a href=\"https://vnexpress.net/iran-canh-bao-hau-qua-voi-cac-quoc-gia-theo-phe-my-5072192.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/10/hormuz-1778415247-7282-1778415259.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=uzB8irD4t6j6WlZzuDh8oA\" /></a>Quân đội Iran cho biết các nước cùng Washington thực thi trừng phạt nhằm vào Tehran sẽ gặp khó khăn khi di chuyển qua eo biển Hormuz.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/kiep-nan-hoc-toan-lop-6-tieng-anh-lop-8-de-day-kem-con-tai-nha-cua-phu-huynh-viet-5072160.html",
-      "title": "'Kiếp nạn' học Toán lớp 6, tiếng Anh lớp 8 để dạy kèm con tại nhà của phụ huynh Việt",
-      "link": "https://vnexpress.net/kiep-nan-hoc-toan-lop-6-tieng-anh-lop-8-de-day-kem-con-tai-nha-cua-phu-huynh-viet-5072160.html",
-      "pubDate": "Sun, 10 May 2026 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/kiep-nan-hoc-toan-lop-6-tieng-anh-lop-8-de-day-kem-con-tai-nha-cua-phu-huynh-viet-5072160.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/10/hocthemcon-1778403232-6153-1778403291.png?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=dE2sri0yx__QrdIERXolTw\" /></a>Từ khi việc dạy thêm bị siết chặt, nhiều gia đình bước vào một guồng quay mới: Cha mẹ trở thành giáo viên tại gia.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/rui-ro-neu-my-cam-xuat-khau-dau-de-kim-ham-gia-xang-5071361.html",
-      "title": "Rủi ro nếu Mỹ cấm xuất khẩu dầu để kìm hãm giá xăng",
-      "link": "https://vnexpress.net/rui-ro-neu-my-cam-xuat-khau-dau-de-kim-ham-gia-xang-5071361.html",
-      "pubDate": "Sun, 10 May 2026 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/rui-ro-neu-my-cam-xuat-khau-dau-de-kim-ham-gia-xang-5071361.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/08/khai-thac-dau-tai-my-177820554-4281-8053-1778205595.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=0Dz3QeQJMS7sT0w2kcUq1Q\" /></a>Nhiều người kêu gọi Tổng thống Trump áp lệnh cấm xuất khẩu xăng dầu để kìm đà tăng giá xăng ở Mỹ, song phương án này tiềm ẩn nhiều nguy cơ dài hạn.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/tiem-vaccine-dai-truoc-khi-bi-cho-can-co-doc-khong-5071936.html",
-      "title": "Tiêm vaccine dại trước khi bị chó cắn có độc không?",
-      "link": "https://vnexpress.net/tiem-vaccine-dai-truoc-khi-bi-cho-can-co-doc-khong-5071936.html",
-      "pubDate": "Sun, 10 May 2026 19:00:00 +0700",
-      "description": "<a href=\"https://vnexpress.net/tiem-vaccine-dai-truoc-khi-bi-cho-can-co-doc-khong-5071936.html\"><img src=\"https://vcdn1-suckhoe.vnecdn.net/2026/05/09/medium-vecteezy-asian-boy-play-6449-4125-1778319437.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=8ILJ99funCfT4XpmPGreQQ\" /></a>Con tôi 3 tuổi, thường xuyên chơi với chó mèo. Tôi nghe nói có thể tiêm vaccine dại trước khi bị cắn, xin hỏi có an toàn cho sức khỏe không? (Kim Anh, Vũng Tàu)",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/lay-luoi-cau-mac-sau-trong-thuc-quan-nguoi-dan-ong-5072133.html",
-      "title": "Lấy lưỡi câu mắc sâu trong thực quản người đàn ông",
-      "link": "https://vnexpress.net/lay-luoi-cau-mac-sau-trong-thuc-quan-nguoi-dan-ong-5072133.html",
-      "pubDate": "Sun, 10 May 2026 18:47:14 +0700",
-      "description": "Các bác sĩ Bệnh viện Đà Nẵng vừa nội soi cấp cứu, lấy thành công lưỡi câu nằm ngang thực quản cho nam bệnh nhân 46 tuổi sau khi ăn cá.",
       "image": ""
     }
   ],
