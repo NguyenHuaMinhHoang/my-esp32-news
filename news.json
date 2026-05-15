@@ -1,49 +1,8 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-05-15T05:45:33.083157Z",
-  "updated_vn": "2026-05-15T12:45:33.083160+07:00",
-  "schedule_time": "12:45",
-  "articles": [
-    {
-      "id": "https://vnexpress.net/ong-tran-anh-tuan-va-phan-van-trong-lam-tro-ly-thu-tuong-5074293.html",
-      "title": "Ông Trần Anh Tuấn và Phan Văn Trọng làm trợ lý Thủ tướng",
-      "link": "https://vnexpress.net/ong-tran-anh-tuan-va-phan-van-trong-lam-tro-ly-thu-tuong-5074293.html",
-      "pubDate": "Fri, 15 May 2026 12:36:27 +0700",
-      "description": "<a href=\"https://vnexpress.net/ong-tran-anh-tuan-va-phan-van-trong-lam-tro-ly-thu-tuong-5074293.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/15/101150101129tran-anh-tuan-tro-1584-4923-1778823361.webp?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=EK0OJyzclDwCFL3sQGAaVQ\" /></a>Ông Trần Anh Tuấn và Phan Văn Trọng được Thủ tướng Lê Minh Hưng điều động, bổ nhiệm giữ chức Trợ lý Thủ tướng từ ngày 14/5.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/du-khach-bi-bat-vi-nem-da-vao-dau-dong-vat-quy-5074282.html",
-      "title": "Du khách bị bắt vì ném đá vào đầu động vật quý",
-      "link": "https://vnexpress.net/du-khach-bi-bat-vi-nem-da-vao-dau-dong-vat-quy-5074282.html",
-      "pubDate": "Fri, 15 May 2026 12:30:58 +0700",
-      "description": "<a href=\"https://vnexpress.net/du-khach-bi-bat-vi-nem-da-vao-dau-dong-vat-quy-5074282.html\"><img src=\"https://vcdn1-dulich.vnecdn.net/2026/05/15/tixung3-1778820106-2371-1778820188.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=rbXJMeHP1s5So_3kXLoOOw\" /></a>Cơ quan chức năng Mỹ bắt giữ nam du khách sau hành vi ném cục đá lớn vào đầu một con hải cẩu sư Hawaii đang bơi tại vùng nước nông.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/bao-yen-va-dan-ca-si-hat-ve-thien-nhien-5074199.html",
-      "title": "Bảo Yến và dàn ca sĩ hát về thiên nhiên",
-      "link": "https://vnexpress.net/bao-yen-va-dan-ca-si-hat-ve-thien-nhien-5074199.html",
-      "pubDate": "Fri, 15 May 2026 12:30:40 +0700",
-      "description": "<a href=\"https://vnexpress.net/bao-yen-va-dan-ca-si-hat-ve-thien-nhien-5074199.html\"><img src=\"https://vcdn1-giaitri.vnecdn.net/2026/05/15/ba-o-ye-n-1778816441.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=punqn9THg5DCFpJUSkgglA\" /></a>Danh ca Bảo Yến và Thùy Chi, Lâm Bảo Ngọc, nhóm Oplus hát về sự gắn kết giữa con người và thiên nhiên trong concert \"Tình đất\", tối 14/5.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/rac-roi-moi-trong-vu-ly-hon-nghin-ty-cua-bac-si-o-tp-hcm-5074289.html",
-      "title": "Rắc rối mới trong vụ ly hôn nghìn tỷ của bác sĩ ở TP HCM",
-      "link": "https://vnexpress.net/rac-roi-moi-trong-vu-ly-hon-nghin-ty-cua-bac-si-o-tp-hcm-5074289.html",
-      "pubDate": "Fri, 15 May 2026 12:29:16 +0700",
-      "description": "<a href=\"https://vnexpress.net/rac-roi-moi-trong-vu-ly-hon-nghin-ty-cua-bac-si-o-tp-hcm-5074289.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/15/a96dc710050e8450dd1f-177882123-3913-8351-1778821281.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=lgVxEsMyvMyZE4ugXqP46g\" /></a>Sau nhiều ngày tranh luận gay gắt, phiên xử vụ ly hôn hơn 1.200 tỷ đồng của vợ chồng bác sĩ ở TP HCM bất ngờ phải tạm dừng do xuất hiện thêm khiếu nại từ cả hai phía.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/xe-may-ganh-loi-nhuan-honda-thoi-ky-vong-oto-dien-5074120.html",
-      "title": "Xe máy gánh lợi nhuận, Honda thôi kỳ vọng ôtô điện",
-      "link": "https://vnexpress.net/xe-may-ganh-loi-nhuan-honda-thoi-ky-vong-oto-dien-5074120.html",
-      "pubDate": "Fri, 15 May 2026 12:25:18 +0700",
-      "description": "<a href=\"https://vnexpress.net/xe-may-ganh-loi-nhuan-honda-thoi-ky-vong-oto-dien-5074120.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/05/15/Indonesia2-1778812750-8611-1778812951.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=5jzAUT2glCQnvNJLy_2ljQ\" /></a>Honda ghi nhận khoản lỗ thường niên lần đầu tiên sau gần 70 năm hoạt động, ảnh hưởng bởi 9 tỷ USD tái cấu trúc mảng kinh doanh xe điện.",
-      "image": ""
-    }
-  ],
-  "total_articles": 5
+  "updated": "2026-05-15T09:37:36.611588Z",
+  "updated_vn": "2026-05-15T16:37:36.611594+07:00",
+  "schedule_time": "16:37",
+  "articles": [],
+  "total_articles": 0
 }
