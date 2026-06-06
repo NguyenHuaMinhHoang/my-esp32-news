@@ -1,9 +1,17 @@
 {
   "source": "VnExpress RSS",
-  "updated": "2026-06-06T15:04:27.359635Z",
-  "updated_vn": "2026-06-06T22:04:27.359639+07:00",
-  "schedule_time": "22:04",
+  "updated": "2026-06-06T16:56:58.806763Z",
+  "updated_vn": "2026-06-06T23:56:58.806768+07:00",
+  "schedule_time": "23:56",
   "articles": [
+    {
+      "id": "https://vnexpress.net/israel-khong-kich-lebanon-khien-tuong-quan-doi-thiet-mang-5082800.html",
+      "title": "Israel không kích Lebanon, khiến tướng quân đội thiệt mạng",
+      "link": "https://vnexpress.net/israel-khong-kich-lebanon-khien-tuong-quan-doi-thiet-mang-5082800.html",
+      "pubDate": "Sat, 06 Jun 2026 22:39:17 +0700",
+      "description": "<a href=\"https://vnexpress.net/israel-khong-kich-lebanon-khien-tuong-quan-doi-thiet-mang-5082800.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/06/06/anh1-1780759364-5477-1780759621.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=A_8M3TvwKvfI-FRbQ7MLxQ\" /></a>Israel tiến hành loạt cuộc không kích nhằm vào miền nam Lebanon khiến 9 người thiệt mạng, trong đó có một tướng quân đội.",
+      "image": ""
+    },
     {
       "id": "https://vnexpress.net/vay-ao-ton-chan-cua-vo-bui-tien-dung-5082486.html",
       "title": "Váy áo tôn chân của vợ Bùi Tiến Dũng",
@@ -34,14 +42,6 @@
       "link": "https://vnexpress.net/bao-bi-cung-can-ben-vung-khi-lam-san-pham-xanh-5082678.html",
       "pubDate": "Sat, 06 Jun 2026 20:23:41 +0700",
       "description": "<a href=\"https://vnexpress.net/bao-bi-cung-can-ben-vung-khi-lam-san-pham-xanh-5082678.html\"><img src=\"https://vcdn1-kinhdoanh.vnecdn.net/2026/06/06/pexelscottonbro6591426-1780736-4711-8725-1780736589.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=o_cKShZOiIKUIP0GSemsmQ\" /></a>Sản phẩm xanh không chỉ nằm ở nguyên liệu hay quy trình sản xuất bền vững mà còn ở vòng đời của bao bì, theo chuyên gia.",
-      "image": ""
-    },
-    {
-      "id": "https://vnexpress.net/tai-xe-co-nong-do-con-gay-tai-nan-lien-hoan-o-ha-noi-bi-khoi-to-5082753.html",
-      "title": "Tài xế 'có nồng độ cồn' gây tai nạn liên hoàn ở Hà Nội bị khởi tố",
-      "link": "https://vnexpress.net/tai-xe-co-nong-do-con-gay-tai-nan-lien-hoan-o-ha-noi-bi-khoi-to-5082753.html",
-      "pubDate": "Sat, 06 Jun 2026 20:21:07 +0700",
-      "description": "<a href=\"https://vnexpress.net/tai-xe-co-nong-do-con-gay-tai-nan-lien-hoan-o-ha-noi-bi-khoi-to-5082753.html\"><img src=\"https://vcdn1-vnexpress.vnecdn.net/2026/06/06/tai-na-1780740283-4287-1780740287.jpg?w=1200&amp;h=0&amp;q=100&amp;dpr=1&amp;fit=crop&amp;s=8j4J6AaMJ7iAMvYw636Phg\" /></a>Tài xế Nguyễn Văn Sáu điều khiển ôtô khi có nồng độ cồn 0,264 mg/l khí thở, gây tai nạn liên hoàn trên phố Nguyễn Chánh khiến một phụ nữ tử vong.",
       "image": ""
     }
   ],
